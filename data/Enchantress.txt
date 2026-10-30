@@ -1,0 +1,10 @@
+Описание: Enchantress — герой дальнего боя, который специализируется на нанесении урона с большого расстояния, лечении союзников и контроле нейтральных крипов. Enchant позволяет подчинять вражеских крипов, Nature's Attendants лечит союзников поблизости, а Untouchable сильно замедляет атаки врагов, пытающихся атаковать её. Impetus наносит дополнительный урон в зависимости от расстояния до цели, благодаря чему Enchantress опасна против выносливых героев. Её главные слабости — мгновенный взрывной урон и герои, способные быстро сократить дистанцию.
+
+Герой: Enchantress
+Роль: Керри (1), мидер (2), оффлейнер (3), поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Phantom Assassin, Outworld Destroyer, Marci, Bristleback, Riki, Nyx Assassin
+Основной закуп: Magic Wand, Power Treads, Dragon Lance, Aghanim's Scepter, Aghanim's Shard, Hurricane Pike, Force Staff, Black King Bar, Blink Dagger
+Силён против: Invoker, Wraith King, Sven, Night Stalker, Clinkz, Anti-Mage
+Контр-предметы: Black King Bar, Linken's Sphere, Blink Dagger, Silver Edge, Spirit Vessel, Ghost Scepter

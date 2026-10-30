@@ -1,0 +1,10 @@
+Описание: Shadow Shaman — саппорт дальнего боя, специализирующийся на контроле противников и сносе строений. Hex превращает врага в беззащитное существо, Shackles удерживает его на месте, а Ether Shock наносит урон нескольким целям. Ультимейт Mass Serpent Ward призывает змеиные тотемы, которые наносят высокий урон врагам и строениям.
+
+Герой: Shadow Shaman
+Роль: Саппорт (4/5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Phantom Lancer, Spectre, Meepo, Dark Seer, Medusa, Wraith King
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Blink Dagger, Aether Lens, Glimmer Cape, Aghanim's Shard, Force Staff, Aghanim's Scepter, Refresher Orb
+Силён против: Morphling, Templar Assassin, Faceless Void, Ursa, Storm Spirit, Weaver
+Контр-предметы: Linken's Sphere, Lotus Orb, Black King Bar, Blade Mail, Force Staff, Glimmer Cape

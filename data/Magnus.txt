@@ -1,0 +1,10 @@
+Описание: Magnus — герой ближнего боя, специализирующийся на инициации, контроле и усилении союзников. Skewer позволяет стягивать врагов в неудобные позиции, Empower увеличивает урон от атак, а Reverse Polarity оглушает противников в большой области, создавая возможности для мощных командных комбинаций.
+
+Герой: Magnus
+Роль: Оффлейнер (3), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Универсальный
+Слаб против: Silencer, Rubick, Viper, Timbersaw, Shadow Demon, Oracle
+Основной закуп: Power Treads, Blink Dagger, Magic Wand, Black King Bar, Aghanim's Shard, Harpoon, Refresher Orb, Assault Cuirass, Shiva's Guard
+Силён против: Drow Ranger, Sniper, Crystal Maiden, Witch Doctor, Enigma, Phantom Assassin
+Контр-предметы: Black King Bar, Linken's Sphere, Aeon Disk, Force Staff, Hurricane Pike, Glimmer Cape

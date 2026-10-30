@@ -1,0 +1,10 @@
+Описание: Timbersaw — мобильный герой ближнего боя, который становится особенно выносливым в затяжных сражениях. Whirling Death наносит урон по области и уменьшает основной атрибут врагов, Timber Chain позволяет быстро перемещаться между деревьями, а Reactive Armor повышает броню и восстановление здоровья при получении атак. Ультимейт Chakram наносит урон и замедляет противников, контролируя пространство в бою. Особенно силён против героев с большим запасом здоровья и тех, кто зависит от физического урона.
+
+Герой: Timbersaw
+Роль: Оффлейнер (3), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Outworld Destroyer, Nyx Assassin, Silencer, Tinker, Faceless Void, Viper
+Основной закуп: Soul Ring, Ring of Basilius, Phase Boots, Kaya and Sange, Blink Dagger, Aghanim's Shard, Black King Bar, Shiva's Guard, Heart of Tarrasque
+Силён против: Tidehunter, Phantom Lancer, Chaos Knight, Naga Siren, Terrorblade, Shadow Demon
+Контр-предметы: Silver Edge, Orchid Malevolence, Scythe of Vyse, Spirit Vessel, Black King Bar, Shiva's Guard

@@ -1,0 +1,10 @@
+Описание: Monkey King — мобильный герой-керри ближнего боя, который силён в дуэлях и затяжных сражениях. Boundless Strike наносит критический удар по линии и оглушает врагов, а Tree Dance позволяет перемещаться по деревьям и неожиданно нападать сверху. Jingu Mastery усиливает атаки после нескольких попаданий по одной цели, а Mischief помогает маскироваться. Ультимейт Wukong's Command создаёт армию воинов, наносящих урон врагам в большой области. Особенно опасен в боях за узкие проходы и при удачном начале драки.
+
+Герой: Monkey King
+Роль: Керри (1), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Phoenix, Muerta, Venomancer, Zeus, Elder Titan, Techies
+Основной закуп: Power Treads, Echo Sabre, Maelstrom, Black King Bar, Aghanim's Scepter, Harpoon, Eye of Skadi, Abyssal Blade
+Силён против: Meepo, Ember Spirit, Pangolier, Void Spirit, Anti-Mage, Nature's Prophet
+Контр-предметы: Quelling Blade, Silver Edge, Spirit Vessel, Heaven's Halberd, Crimson Guard, Abyssal Blade

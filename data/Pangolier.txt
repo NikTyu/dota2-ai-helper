@@ -1,0 +1,10 @@
+Описание: Pangolier — мобильный герой ближнего боя, специализирующийся на командных сражениях, контроле и уклонении от атак. Swashbuckle позволяет быстро наносить серии ударов, Shield Crash помогает переживать урон, а ультимейт Rolling Thunder превращает героя в катящийся шар, оглушающий и отбрасывающий противников.
+
+Герой: Pangolier
+Роль: Мид (2), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Disruptor, Shadow Shaman, Lion, Bane, Doom, Bloodseeker
+Основной закуп: Arcane Boots, Diffusal Blade, Maelstrom, Blink Dagger, Aghanim's Shard, Black King Bar, Gleipnir, Aghanim's Scepter, Skull Basher
+Силён против: Drow Ranger, Sniper, Crystal Maiden, Witch Doctor, Phantom Lancer, Templar Assassin
+Контр-предметы: Scythe of Vyse, Orchid Malevolence, Bloodthorn, Heaven's Halberd, Gleipnir, Black King Bar

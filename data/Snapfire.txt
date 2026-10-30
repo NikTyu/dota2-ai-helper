@@ -1,0 +1,10 @@
+Описание: Snapfire — герой дальнего боя, сочетающий мощный урон на расстоянии, замедления и контроль. Scatterblast наносит урон перед героиней, Firesnap Cookie помогает союзнику прыгнуть и оглушить врагов, а ультимейт Mortimer Kisses обстреливает большую область взрывными снарядами.
+
+Герой: Snapfire
+Роль: Оффлейнер (3), саппорт (4), саппорт (5)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Phantom Assassin, Storm Spirit, Anti-Mage, Nyx Assassin, Clockwerk, Spectre
+Основной закуп: Arcane Boots, Aether Lens, Force Staff, Glimmer Cape, Aghanim's Shard, Aghanim's Scepter, Eul's Scepter of Divinity, Scythe of Vyse, Octarine Core
+Силён против: Enigma, Witch Doctor, Crystal Maiden, Nature's Prophet, Phantom Lancer, Broodmother
+Контр-предметы: Black King Bar, Pipe of Insight, Glimmer Cape, Force Staff, Lotus Orb, Heaven's Halberd

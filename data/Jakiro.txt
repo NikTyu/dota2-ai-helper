@@ -1,0 +1,10 @@
+Описание: Jakiro — герой поддержки дальнего боя, обладающий мощными заклинаниями по области, замедлениями и оглушением. Dual Breath наносит магический урон и замедляет врагов, Ice Path создаёт ледяную дорожку, оглушающую противников, а Liquid Fire замедляет их атаки и наносит дополнительный урон. Macropyre оставляет полосу пламени, которая наносит длительный урон всем врагам внутри неё. Jakiro особенно силён при защите башен, осаде и командных сражениях в узких проходах, но уязвим к героям, способным быстро сблизиться с ним.
+
+Герой: Jakiro
+Роль: Поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Rubick, Legion Commander, Tidehunter, Slark, Pangolier, Wraith King
+Основной закуп: Magic Wand, Ring of Basilius, Wind Lace, Arcane Boots, Glimmer Cape, Force Staff, Eul's Scepter of Divinity, Aghanim's Shard, Aghanim's Scepter, Guardian Greaves
+Силён против: Meepo, Visage, Chen, Beastmaster, Chaos Knight, Broodmother
+Контр-предметы: Black King Bar, Pipe of Insight, Mage Slayer, Glimmer Cape, Force Staff

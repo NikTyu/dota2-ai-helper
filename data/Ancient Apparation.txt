@@ -1,0 +1,10 @@
+Описание: Ancient Apparition — герой поддержки дальнего боя, специализирующийся на контроле, магическом уроне и предотвращении восстановления здоровья врагов. Cold Feet оглушает противника, если тот не успевает покинуть область действия, Ice Vortex замедляет врагов и усиливает получаемый ими магический урон, а Chilling Touch усиливает атаки дополнительным магическим уроном. Ультимейт Ice Blast поражает врагов на огромной дистанции и запрещает им восстанавливать здоровье, а при снижении здоровья до определённого порога может мгновенно убить цель. Особенно силён против героев, зависящих от лечения и регенерации.
+
+Герой: Ancient Apparition
+Роль: Поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Phantom Lancer, Brewmaster, Lone Druid, Arc Warden, Spectre, Riki
+Основной закуп: Tranquil Boots, Magic Wand, Aghanim's Shard, Rod of Atos, Glimmer Cape, Force Staff, Eul's Scepter of Divinity, Aghanim's Scepter
+Силён против: Huskar, Necrophos, Slark, Io, Bristleback, Morphling
+Контр-предметы: Black King Bar, Pipe of Insight, Glimmer Cape, Force Staff, Lotus Orb, Aeon Disk

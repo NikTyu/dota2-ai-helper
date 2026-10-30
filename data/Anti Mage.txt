@@ -1,0 +1,10 @@
+Описание: Anti-Mage — мобильный герой-керри, специализирующийся на сжигании маны врагов, быстром фарме и устранении магических героев. Mana Break сжигает ману при каждой атаке, Blink позволяет мгновенно перемещаться на короткие расстояния, а Counterspell отражает направленные заклинания и повышает сопротивление магии. Ультимейт Mana Void наносит урон по области в зависимости от недостающей маны противников. Anti-Mage особенно опасен в поздней игре, когда получает основные предметы и может быстро уничтожать вражескую команду.
+
+Герой: Anti-Mage
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Huskar, Meepo, Axe, Slardar, Troll Warlord, Ursa
+Основной закуп: Power Treads, Battle Fury, Manta Style, Butterfly, Abyssal Blade, Eye of Skadi, Black King Bar, Satanic
+Силён против: Medusa, Bristleback, Wraith King, Storm Spirit, Tinker, Chaos Knight
+Контр-предметы: Silver Edge, Black King Bar, Heaven's Halberd, Scythe of Vyse, Bloodthorn, Shiva's Guard

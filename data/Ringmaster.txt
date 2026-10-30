@@ -1,0 +1,10 @@
+Описание: Ringmaster — герой дальнего боя, специализирующийся на контроле противников и спасении союзников. Его способности наносят урон, замедляют и пугают врагов, а Escape Act помогает защитить союзника. Особенно эффективен в роли четвёртой позиции благодаря контролю и полезности в командных сражениях.
+
+Герой: Ringmaster
+Роль: Саппорт (4/5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Bloodseeker, Lycan, Shadow Demon, Omniknight, Oracle, Batrider
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Blink Dagger, Aether Lens, Glimmer Cape, Rod of Atos, Force Staff, Aghanim's Shard, Aghanim's Scepter
+Силён против: Terrorblade, Slark, Legion Commander, Drow Ranger, Sand King, Meepo
+Контр-предметы: Black King Bar, Aeon Disk, Force Staff, Glimmer Cape

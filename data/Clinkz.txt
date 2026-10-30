@@ -1,0 +1,10 @@
+Описание: Clinkz — мобильный герой дальнего боя, специализирующийся на внезапных атаках, физическом уроне и быстром устранении одиночных целей. Strafe значительно увеличивает скорость атаки и дальность стрельбы, Searing Arrows усиливает атаки дополнительным уроном, а Death Pact позволяет поглощать крипов для восстановления здоровья и увеличения максимального запаса здоровья. Skeleton Walk делает Clinkz невидимым и оставляет за ним скелетов-лучников после выхода из невидимости. Особенно эффективен для гангов, быстрого фарма и сплит-пуша.
+
+Герой: Clinkz
+Роль: Керри (1), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Phantom Lancer, Wraith King, Phantom Assassin, Abaddon, Chaos Knight, Riki
+Основной закуп: Power Treads, Desolator, Aghanim's Shard, Orchid Malevolence, Dragon Lance, Daedalus, Black King Bar, Hurricane Pike
+Силён против: Doom, Juggernaut, Lina, Faceless Void, Dazzle, Pangolier
+Контр-предметы: Dust of Appearance, Sentry Ward, Gem of True Sight, Ghost Scepter, Blade Mail, Heaven's Halberd

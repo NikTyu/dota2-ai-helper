@@ -1,0 +1,10 @@
+Описание: Viper — герой дальнего боя, специализирующийся на постепенном нанесении урона, замедлении врагов и подавлении противников на линии. Poison Attack усиливает обычные атаки ядом и замедляет цели, Nethertoxin наносит увеличивающийся со временем урон по области и отключает пассивные способности врагов внутри неё, а Corrosive Skin наносит ответный урон и повышает сопротивление магии. Ультимейт Viper Strike сильно замедляет врага и отключает его пассивные способности. Особенно силён в начале и середине игры против героев, зависящих от пассивок и ближнего боя.
+
+Герой: Viper
+Роль: Мид (2), оффлейнер (3)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Phantom Lancer, Arc Warden, Terrorblade, Naga Siren, Chaos Knight, Windranger
+Основной закуп: Power Treads, Dragon Lance, Mage Slayer, Hurricane Pike, Black King Bar, Aghanim's Shard, Aghanim's Scepter, Eye of Skadi
+Силён против: Huskar, Dragon Knight, Bristleback, Ember Spirit, Troll Warlord, Elder Titan
+Контр-предметы: Black King Bar, Silver Edge, Force Staff, Hurricane Pike, Lotus Orb, Mage Slayer

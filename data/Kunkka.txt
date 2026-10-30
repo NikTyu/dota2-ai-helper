@@ -1,0 +1,10 @@
+Описание: Kunkka — универсальный герой, специализирующийся на мощном физическом уроне и контроле противников. Tidebringer наносит урон по области, Torrent подбрасывает врагов, а X Marks the Spot позволяет возвращать цели в отмеченную точку. Ghostship наносит массовый урон и помогает союзникам переживать входящий урон. Эффективен в командных сражениях и при зачистке волн крипов.
+
+Герой: Kunkka
+Роль: Мид (2), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Lifestealer, Timbersaw, Juggernaut, Ember Spirit, Faceless Void, Venomancer
+Основной закуп: Phase Boots, Blade Mail, Crystalys, Aghanim's Scepter, Black King Bar, Daedalus, Shiva's Guard
+Силён против: Meepo, Phantom Lancer, Enigma, Chaos Knight, Beastmaster, Nature's Prophet
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Heaven's Halberd, Assault Cuirass, Shiva's Guard

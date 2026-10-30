@@ -1,0 +1,10 @@
+Описание: Witch Doctor — саппорт дальнего боя, специализирующийся на нанесении урона и контроле противников. Paralyzing Cask оглушает врагов, Maledict усиливает получаемый ими урон, а Voodoo Restoration лечит союзников поблизости. Ультимейт Death Ward призывает тотем, наносящий высокий физический урон. Особенно эффективен на четвёртой и пятой позициях благодаря сильному урону в командных сражениях.
+
+Герой: Witch Doctor
+Роль: Саппорт (4/5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Medusa, Enigma, Riki, Broodmother, Faceless Void, Muerta
+Основной закуп: Magic Wand, Arcane Boots, Aghanim's Shard, Glimmer Cape, Blink Dagger, Aether Lens, Aghanim's Scepter, Force Staff, Spirit Vessel, Aeon Disk
+Силён против: Timbersaw, Axe, Bloodseeker, Meepo, Dragon Knight, Razor
+Контр-предметы: Black King Bar, Glimmer Cape, Force Staff, Orchid Malevolence, Scythe of Vyse, Abyssal Blade

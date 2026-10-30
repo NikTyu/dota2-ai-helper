@@ -1,0 +1,10 @@
+Описание: Grimstroke — герой поддержки дальнего боя, специализирующийся на магическом уроне, обездвиживании врагов и комбинациях с союзниками. Stroke of Fate наносит урон по линии и замедляет противников, Phantom's Embrace отправляет призрачную сущность, которая наносит урон и накладывает безмолвие, а Ink Swell окружает союзника чернилами и оглушает врагов рядом с ним. Soulbind связывает двух вражеских героев, позволяя эффективно применять к ним направленные заклинания. Grimstroke особенно силён в командных боях и в сочетании с союзниками, у которых есть мощные способности контроля.
+
+Герой: Grimstroke
+Роль: Поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Arc Warden, Clinkz, Spectre, Bounty Hunter, Sniper, Lycan
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Blink Dagger, Glimmer Cape, Aether Lens, Aghanim's Shard, Aghanim's Scepter
+Силён против: Slark, Timbersaw, Necrophos, Pangolier, Lifestealer, Ember Spirit
+Контр-предметы: Eul's Scepter of Divinity, Black King Bar, Lotus Orb, Force Staff, Glimmer Cape, Linken's Sphere

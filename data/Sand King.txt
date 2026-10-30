@@ -1,0 +1,10 @@
+Описание: Sand King — герой ближнего боя, специализирующийся на инициации, массовом уроне и контроле противников. Burrowstrike позволяет стремительно врываться в бой и оглушать врагов, Sand Storm наносит урон в области, а Epicenter создаёт мощные волны, поражающие противников вокруг героя.
+
+Герой: Sand King
+Роль: Оффлейнер (3), саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Silencer, Rubick, Viper, Lifestealer, Nyx Assassin, Oracle
+Основной закуп: Arcane Boots, Blink Dagger, Veil of Discord, Aghanim's Shard, Black King Bar, Kaya and Sange, Shiva's Guard, Aghanim's Scepter, Refresher Orb
+Силён против: Phantom Lancer, Meepo, Broodmother, Drow Ranger, Sniper, Crystal Maiden
+Контр-предметы: Black King Bar, Pipe of Insight, Eternal Shroud, Glimmer Cape, Force Staff, Dust of Appearance

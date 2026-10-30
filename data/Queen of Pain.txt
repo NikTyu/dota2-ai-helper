@@ -1,0 +1,10 @@
+Описание: Queen of Pain — мобильный маг дальнего боя, специализирующийся на нанесении взрывного магического урона, гангах и быстром перемещении по карте. Shadow Strike наносит периодический урон и замедляет противника, Blink позволяет мгновенно перемещаться на небольшое расстояние, а Scream of Pain наносит магический урон врагам вокруг героя. Ультимейт Sonic Wave выпускает мощную звуковую волну, наносящую большой магический урон противникам на пути. Особенно эффективна в роли второй позиции, где благодаря мобильности и высокому урону способна доминировать на линии, быстро устранять одиночные цели и создавать давление на карте.
+
+Герой: Queen of Pain
+Роль: Мид (2), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Anti-Mage, Nyx Assassin, Puck, Storm Spirit, Huskar, Silencer
+Основной закуп: Bottle, Power Treads, Witch Blade, Kaya and Sange, Aghanim's Shard, Aghanim's Scepter, Black King Bar, Scythe of Vyse, Linken's Sphere
+Силён против: Crystal Maiden, Sniper, Drow Ranger, Zeus, Shadow Fiend, Tinker
+Контр-предметы: Black King Bar, Orchid Malevolence, Bloodthorn, Scythe of Vyse, Heaven's Halberd, Linken's Sphere

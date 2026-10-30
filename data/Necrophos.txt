@@ -1,0 +1,10 @@
+Описание: Necrophos — герой дальнего боя, специализирующийся на постепенном истощении здоровья врагов, выживании и магическом уроне. Death Pulse наносит урон противникам и лечит союзников, Ghost Shroud усиливает восстановление здоровья, но повышает получаемый магический урон, а Heartstopper Aura постепенно отнимает процент максимального здоровья у врагов поблизости. Ультимейт Reaper's Scythe оглушает цель и наносит урон в зависимости от недостающего здоровья; если цель погибает под действием способности, Necrophos получает постоянное усиление восстановления здоровья и маны. Он особенно силён в затяжных боях, но уязвим к снижению лечения и мощному магическому урону.
+
+Герой: Necrophos
+Роль: Мидер (2), оффлейнер (3), керри (1)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Ancient Apparition, Muerta, Keeper of the Light, Pugna, Skywrath Mage, Leshrac
+Основной закуп: Magic Wand, Null Talisman, Wind Lace, Radiance, Aghanim's Shard, Boots of Travel, Kaya and Sange, Shiva's Guard, Heart of Tarrasque, Black King Bar
+Силён против: Huskar, Timbersaw, Meepo, Broodmother, Monkey King, Lycan
+Контр-предметы: Spirit Vessel, Shiva's Guard, Mage Slayer, Pipe of Insight, Black King Bar, Orchid Malevolence

@@ -1,0 +1,10 @@
+Описание: Crystal Maiden — герой поддержки дальнего боя, который помогает команде за счёт замедлений, обездвиживания врагов и восстановления маны союзникам благодаря Arcane Aura. Crystal Nova наносит урон по области и замедляет противников, Frostbite обездвиживает цель, а Freezing Field создаёт вокруг героя область мощного ледяного урона. Crystal Maiden особенно полезна в командных боях и на ранней стадии игры, но сама очень хрупкая и уязвима для внезапных атак и прерывания ультимейта.
+
+Герой: Crystal Maiden
+Роль: Полная поддержка (5), поддержка (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Rubick, Juggernaut, Puck, Kez, Enigma, Dawnbreaker
+Основной закуп: Magic Wand, Wind Lace, Tranquil Boots, Aghanim's Shard, Glimmer Cape, Blink Dagger, Force Staff, Black King Bar, Aghanim's Scepter
+Силён против: Phantom Lancer, Meepo, Broodmother, Wraith King, Lycan, Spectre
+Контр-предметы: Black King Bar, Linken's Sphere, Blink Dagger, Lotus Orb, Glimmer Cape

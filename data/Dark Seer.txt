@@ -1,0 +1,10 @@
+Описание: Dark Seer — герой ближнего боя, специализирующийся на командных сражениях, контроле пространства и усилении союзников. Vacuum стягивает врагов в одну точку, Ion Shell наносит периодический урон окружающим противникам, а Surge резко увеличивает скорость передвижения союзника. Wall of Replica создаёт иллюзии вражеских героев, которые могут нанести огромный урон в подходящем матче. Dark Seer особенно эффективен против героев, зависящих от иллюзий и физических атак, но нуждается в хорошей координации команды.
+
+Герой: Dark Seer
+Роль: Оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Интеллект
+Слаб против: Oracle, Sven, Bloodseeker, Faceless Void, Primal Beast, Ember Spirit
+Основной закуп: Magic Wand, Soul Ring, Arcane Boots, Helm of the Dominator, Mekansm, Blink Dagger, Shiva's Guard, Guardian Greaves, Aghanim's Scepter, Black King Bar
+Силён против: Phantom Lancer, Medusa, Terrorblade, Wraith King, Drow Ranger, Razor
+Контр-предметы: Black King Bar, Scythe of Vyse, Pipe of Insight, Lotus Orb, Crimson Guard

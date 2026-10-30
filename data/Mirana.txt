@@ -1,0 +1,10 @@
+Описание: Mirana — универсальный герой дальнего боя, чаще всего играющий на четвёртой или пятой позиции. Starstorm наносит магический урон по области, Sacred Arrow оглушает врагов на расстоянии, а Leap позволяет быстро перемещаться и уклоняться от опасности. Ультимейт Moonlight Shadow делает всю команду невидимой на время, помогая начинать атаки, уходить от противников и перемещаться по карте. Сильна благодаря мобильности, контролю и возможности создавать неожиданные нападения.
+
+Герой: Mirana
+Роль: Поддержка (4), полная поддержка (5), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Meepo, Puck, Bounty Hunter, Clinkz, Huskar, Mars
+Основной закуп: Arcane Boots, Urn of Shadows, Spirit Vessel, Eul's Scepter of Divinity, Aghanim's Scepter, Rod of Atos, Aghanim's Shard, Guardian Greaves
+Силён против: Ancient Apparition, Phoenix, Kez, Sniper, Sand King, Phantom Assassin
+Контр-предметы: Dust of Appearance, Gem of True Sight, Eul's Scepter of Divinity, Glimmer Cape, Force Staff, Black King Bar

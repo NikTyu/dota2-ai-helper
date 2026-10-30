@@ -1,0 +1,10 @@
+Описание: Medusa — герой-керри дальнего боя, который становится особенно опасным в поздней игре. Mana Shield поглощает входящий урон за счёт маны, а Split Shot позволяет атаковать сразу несколько противников. Mystic Snake наносит урон врагам и возвращает Medusa ману, Gorgon's Grasp наносит урон по области и обездвиживает врагов, а ультимейт Stone Gaze замедляет и окаменяет противников, которые смотрят на неё. Сильна в затяжных командных боях, обороне и уничтожении нескольких целей одновременно.
+
+Герой: Medusa
+Роль: Керри (1)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Anti-Mage, Nyx Assassin, Slark, Dark Seer, Sniper, Tidehunter
+Основной закуп: Power Treads, Manta Style, Butterfly, Eye of Skadi, Aghanim's Shard, Daedalus, Aghanim's Scepter, Disperser
+Силён против: Undying, Bloodseeker, Necrophos, Enigma, Beastmaster, Queen of Pain
+Контр-предметы: Diffusal Blade, Disperser, Eye of Skadi, Heaven's Halberd, Shiva's Guard, Crimson Guard

@@ -1,0 +1,10 @@
+Описание: Phantom Assassin — герой-керри ближнего боя, специализирующийся на быстром устранении приоритетных целей за счёт критических ударов и высокой мобильности. Stifling Dagger наносит физический урон и замедляет врагов, Phantom Strike позволяет мгновенно приблизиться к цели и увеличивает скорость атаки, а Immaterial даёт уклонение от атак. Ультимейт Coup de Grace обеспечивает мощные критические удары. Особенно опасна в поздней игре, когда может уничтожить тонких героев за несколько атак.
+
+Герой: Phantom Assassin
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Axe, Bristleback, Pudge, Pangolier, Templar Assassin, Wraith King
+Основной закуп: Power Treads, Battle Fury, Desolator, Black King Bar, Skull Basher, Abyssal Blade, Satanic, Monkey King Bar
+Силён против: Elder Titan, Enigma, Anti-Mage, Clinkz, Huskar, Jakiro
+Контр-предметы: Monkey King Bar, Silver Edge, Heaven's Halberd, Blade Mail, Ghost Scepter, Hurricane Pike

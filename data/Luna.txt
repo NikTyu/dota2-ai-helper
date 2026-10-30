@@ -1,0 +1,10 @@
+Описание: Luna — герой-керри дальнего боя, специализирующийся на быстром фарме, массовом физическом уроне и уничтожении строений. Moon Glaives позволяют её атакам отскакивать между врагами, Lunar Blessing усиливает физический урон Luna и союзников, а Lucent Beam наносит магический урон и оглушает цель. Ультимейт Eclipse обрушивает на противников множество магических лучей. Особенно сильна в командных драках и быстром захвате карты.
+
+Герой: Luna
+Роль: Керри (1), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Bristleback, Nyx Assassin, Zeus, Medusa, Bane, Wraith King
+Основной закуп: Power Treads, Mask of Madness, Manta Style, Black King Bar, Butterfly, Aghanim's Shard, Daedalus, Satanic
+Силён против: Undying, Naga Siren, Timbersaw, Slardar, Riki, Anti-Mage
+Контр-предметы: Heaven's Halberd, Assault Cuirass, Shiva's Guard, Ghost Scepter, Crimson Guard, Hurricane Pike

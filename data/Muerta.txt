@@ -1,0 +1,10 @@
+Описание: Muerta — герой дальнего боя, специализирующийся на физическом уроне, мощных атаках и магическом уроне во время ультимейта. Dead Shot наносит урон и заставляет противника двигаться в страхе, The Calling создаёт область, замедляющую врагов и мешающую им атаковать, а Gunslinger даёт шанс произвести дополнительный выстрел по другой цели. Pierce the Veil превращает её атаки в магический урон и позволяет игнорировать уклонение от обычных атак. Muerta особенно опасна против героев с низкой выживаемостью, но уязвима к контролю, безмолвию и магическому сопротивлению противников.
+
+Герой: Muerta
+Роль: Керри (1), мидер (2), поддержка (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Nyx Assassin, Spectre, Outworld Destroyer, Lina, Axe, Tinker
+Основной закуп: Magic Wand, Power Treads, Falcon Blade, Mask of Madness, Maelstrom, Dragon Lance, Mjollnir, Hurricane Pike, Black King Bar, Daedalus
+Силён против: Necrophos, Omniknight, Tidehunter, Puck, Monkey King, Crystal Maiden
+Контр-предметы: Black King Bar, Pipe of Insight, Orchid Malevolence, Heaven's Halberd, Nullifier, Infused Raindrops

@@ -1,0 +1,10 @@
+Описание: Largo — универсальный герой, специализирующийся на поддержке союзников, лечении и затяжных командных сражениях. С помощью Catchy Lick замедляет и перемещает врагов, Frogstomp оглушает противников, а способности на основе музыки усиливают союзников и помогают команде контролировать ход драки.
+
+Герой: Largo
+Роль: Оффлейнер (3), саппорт (4, 5)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Anti-Mage, Faceless Void, Invoker, Dark Willow, Huskar, Magnus
+Основной закуп: Arcane Boots, Magic Wand, Soul Ring, Kaya, Kaya and Sange, Aghanim's Scepter, Guardian Greaves, Holy Locket
+Силён против: Spectre, Wraith King, Dark Seer, Dazzle, Brewmaster, Pugna
+Контр-предметы: Spirit Vessel, Orb of Corrosion, Orb of Frost, Shiva's Guard, Scythe of Vyse, Black King Bar

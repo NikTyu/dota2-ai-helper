@@ -1,0 +1,10 @@
+Описание: Sniper — герой-керри дальнего боя, который наносит физический урон с огромной дистанции. Shrapnel замедляет врагов и наносит урон по области, Headshot усиливает атаки и отталкивает противников, а Take Aim увеличивает дальность атаки. Ультимейт Assassinate наносит мощный урон выбранной цели на большом расстоянии. Sniper силён при игре из-за спин союзников, быстро уничтожает противников без мобильности и эффективно защищает башни, но уязвим перед героями, способными резко сократить дистанцию.
+
+Герой: Sniper
+Роль: Мид (2), керри (1), поддержка (4)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Storm Spirit, Spectre, Morphling, Phantom Lancer, Axe, Spirit Breaker
+Основной закуп: Power Treads, Dragon Lance, Maelstrom, Hurricane Pike, Mjollnir, Black King Bar, Monkey King Bar, Daedalus
+Силён против: Medusa, Enigma, Elder Titan, Bloodseeker, Grimstroke, Death Prophet
+Контр-предметы: Blink Dagger, Heaven's Halberd, Blade Mail, Linken's Sphere, Silver Edge, Smoke of Deceit

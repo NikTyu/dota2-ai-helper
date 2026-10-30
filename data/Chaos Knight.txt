@@ -1,0 +1,10 @@
+Описание: Chaos Knight — керри ближнего боя, который наносит высокий физический урон и создаёт мощные иллюзии с помощью Phantasm. Способен быстро сближаться с противниками, оглушать их Chaos Bolt и снижать броню через Reality Rift. Особенно опасен при получении ключевых предметов, но уязвим к массовому урону и героям, эффективно уничтожающим иллюзии.
+
+Герой: Chaos Knight
+Роль: Керри (1), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Phantom Lancer, Naga Siren, Sand King, Tidehunter, Timbersaw, Techies
+Основной закуп: Power Treads, Armlet of Mordiggian, Echo Sabre, Blink Dagger, Aghanim's Shard, Black King Bar, Heart of Tarrasque
+Силён против: Clinkz, Outworld Destroyer, Viper, Lone Druid, Huskar, Faceless Void
+Контр-предметы: Black King Bar, Heaven's Halberd, Crimson Guard, Assault Cuirass, Shiva's Guard, Ghost Scepter

@@ -1,0 +1,10 @@
+Описание: Razor — герой дальнего боя, специализирующийся на преследовании врагов, снижении их физического урона и нанесении постоянного урона в бою. Plasma Field наносит урон по области, Static Link постепенно крадёт урон у выбранного противника, а Storm Surge повышает мобильность и позволяет периодически поражать врагов молнией. Ультимейт Eye of the Storm обрушивает молнии на врагов, снижая их броню. Особенно силён в затяжных драках, при погоне и против героев, зависящих от физического урона.
+
+Герой: Razor
+Роль: Оффлейнер (3), мид (2), керри (1)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Anti-Mage, Morphling, Dark Willow, Phantom Lancer, Muerta, Terrorblade
+Основной закуп: Power Treads, Falcon Blade, Manta Style, Sange and Yasha, Black King Bar, Aghanim's Shard, Satanic, Shiva's Guard
+Силён против: Lifestealer, Silencer, Ursa, Troll Warlord, Pugna, Tiny
+Контр-предметы: Force Staff, Heaven's Halberd, Ghost Scepter, Hurricane Pike, Black King Bar, Scythe of Vyse

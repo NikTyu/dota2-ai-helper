@@ -1,0 +1,10 @@
+Описание: Huskar — герой дальнего боя, который становится сильнее по мере потери здоровья. Berserker's Blood увеличивает скорость атаки, сопротивление магии и восстановление здоровья, а Burning Spear наносит накапливающийся периодический урон. Life Break позволяет резко сблизиться с целью и нанести ей урон, основанный на текущем здоровье. Особенно опасен в ранней и средней игре.
+
+Герой: Huskar
+Роль: Мид (2), оффлейнер (3)
+Тип атаки: Дальний бой
+Основной атрибут: Сила
+Слаб против: Viper, Ancient Apparition, Necrophos, Phantom Lancer, Phantom Assassin, Wraith King
+Основной закуп: Power Treads, Armlet of Mordiggian, Blink Dagger, Black King Bar, Aghanim's Scepter, Hurricane Pike, Satanic
+Силён против: Anti-Mage, Ember Spirit, Pangolier, Dragon Knight, Queen of Pain, Storm Spirit
+Контр-предметы: Spirit Vessel, Eye of Skadi, Heaven's Halberd, Silver Edge, Shiva's Guard, Scythe of Vyse

@@ -1,0 +1,10 @@
+Описание: Lycan — герой ближнего боя, специализирующийся на быстром фарме, призыве волков и уничтожении строений. Summon Wolves создаёт подконтрольных волков, Howl усиливает союзников и ослабляет врагов, а Shapeshift значительно повышает скорость передвижения и боевую эффективность. Силен в раннем давлении на карту, быстром сплит-пуше и захвате объектов.
+
+Герой: Lycan
+Роль: Оффлейнер (3), керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Earthshaker, Necrophos, Spirit Breaker, Phantom Lancer, Timbersaw, Sven
+Основной закуп: Helm of the Dominator, Power Treads, Helm of the Overlord, Aghanim's Shard, Assault Cuirass, Black King Bar
+Силён против: Arc Warden, Night Stalker, Outworld Devourer, Silencer, Ringmaster, Drow Ranger
+Контр-предметы: Crimson Guard, Shiva's Guard, Assault Cuirass, Heaven's Halberd, Ghost Scepter, Hurricane Pike

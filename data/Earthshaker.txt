@@ -1,0 +1,10 @@
+Описание: Earthshaker — инициатор и контроллер, способный переворачивать командные драки благодаря массовому оглушению и мощному урону по области. Fissure блокирует проход и оглушает врагов, Enchant Totem усиливает следующую атаку, а Echo Slam наносит огромный урон сгруппированным противникам. Особенно опасен после покупки Blink Dagger.
+
+Герой: Earthshaker
+Роль: Саппорт (4), оффлейнер (3), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Clinkz, Templar Assassin, Huskar, Tiny, Clockwerk, Sniper
+Основной закуп: Arcane Boots, Blink Dagger, Aghanim's Shard, Kaya, Yasha and Kaya, Black King Bar, Aghanim's Scepter, Refresher Orb
+Силён против: Broodmother, Meepo, Phantom Lancer, Lycan, Naga Siren, Anti-Mage
+Контр-предметы: Black King Bar, Aeon Disk, Pipe of Insight, Glimmer Cape, Force Staff, Sange and Yasha

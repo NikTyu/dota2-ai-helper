@@ -1,0 +1,10 @@
+Описание: Shadow Demon — саппорт дальнего боя, специализирующийся на контроле противников, спасении союзников и нанесении магического урона. Disruption временно убирает цель с поля боя и создаёт её иллюзии, Shadow Poison наносит урон, а ультимейт Demonic Purge замедляет врага и снимает положительные эффекты. Особенно эффективен на четвёртой и пятой позициях благодаря сильному контролю и возможности спасать союзников.
+
+Герой: Shadow Demon
+Роль: Саппорт (4/5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Anti-Mage, Riki, Void Spirit, Timbersaw, Chen, Spirit Breaker
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Blink Dagger, Aether Lens, Aghanim's Shard, Glimmer Cape, Force Staff, Aghanim's Scepter, Scythe of Vyse
+Силён против: Luna, Lich, Viper, Medusa, Legion Commander, Grimstroke
+Контр-предметы: Linken's Sphere, Lotus Orb, Black King Bar, Manta Style, Glimmer Cape, Force Staff

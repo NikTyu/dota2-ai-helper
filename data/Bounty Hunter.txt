@@ -1,0 +1,10 @@
+Описание: Bounty Hunter — мобильный герой, специализирующийся на разведке, гангах и получении дополнительного золота за убийства. Shuriken Toss наносит урон и замедляет цель, Jinada усиливает атаку критическим уроном и кражей золота, а Shadow Walk позволяет становиться невидимым и неожиданно нападать на врагов. Ультимейт Track раскрывает противника, увеличивает получаемый им урон и приносит дополнительное золото за убийство. Особенно эффективен в роли четвёртой позиции, создавая давление на карте и помогая команде получать экономическое преимущество.
+
+Герой: Bounty Hunter
+Роль: Саппорт (4/5), мид (2), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Meepo, Naga Siren, Slark, Marci, Troll Warlord, Shadow Shaman
+Основной закуп: Tranquil Boots, Magic Wand, Drum of Endurance, Spirit Vessel, Aghanim's Shard, Eul's Scepter of Divinity, Lotus Orb, Boots of Bearing
+Силён против: Clinkz, Night Stalker, Mirana, Warlock, Luna, Spectre
+Контр-предметы: Dust of Appearance, Sentry Ward, Gem of True Sight, Eul's Scepter of Divinity, Lotus Orb, Linken's Sphere

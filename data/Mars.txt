@@ -1,0 +1,10 @@
+Описание: Mars — герой ближнего боя, специализирующийся на инициации, контроле и командных сражениях. Spear of Mars оглушает и отбрасывает врагов, God's Rebuke наносит мощный физический урон по области, а Arena of Blood изолирует противников и ограничивает их передвижение. Особенно эффективен при командных атаках и захвате пространства.
+
+Герой: Mars
+Роль: Оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Phantom Lancer, Lifestealer, Void Spirit, Ember Spirit, Faceless Void, Undying
+Основной закуп: Soul Ring, Phase Boots, Blink Dagger, Aghanim's Shard, Eul's Scepter of Divinity, Desolator, Black King Bar, Aghanim's Scepter
+Силён против: Drow Ranger, Slark, Sniper, Legion Commander, Broodmother, Shadow Fiend
+Контр-предметы: Black King Bar, Linken's Sphere, Eul's Scepter of Divinity, Force Staff, Silver Edge, Spirit Vessel

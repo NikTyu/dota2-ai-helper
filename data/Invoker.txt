@@ -1,0 +1,10 @@
+Описание: Invoker — герой дальнего боя, обладающий огромным арсеналом заклинаний для нанесения урона, контроля, побега и поддержки команды. Его способности определяются комбинациями трёх сфер: Quas, Wex и Exort, а Invoke позволяет создавать доступные заклинания. Cold Snap прерывает действия врага повторными мини-оглушениями, Tornado подбрасывает противников, EMP выжигает ману, Chaos Meteor наносит мощный урон по области, а Sun Strike поражает выбранную точку на карте. Invoker особенно опасен в руках опытного игрока, но требует хорошей реакции, знания комбинаций и управления ресурсами.
+
+Герой: Invoker
+Роль: Мидер (2), поддержка (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Puck, Void Spirit, Kez, Pangolier, Broodmother, Riki
+Основной закуп: Null Talisman, Magic Wand, Infused Raindrops, Hand of Midas, Kaya, Meteor Hammer, Aghanim's Shard, Blink Dagger, Aghanim's Scepter, Black King Bar
+Силён против: Slark, Spectre, Medusa, Muerta, Troll Warlord, Terrorblade
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Cloak, Pipe of Insight, Orchid Malevolence

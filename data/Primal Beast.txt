@@ -1,0 +1,10 @@
+Описание: Primal Beast — мощный герой ближнего боя, специализирующийся на инициации, контроле и нанесении большого урона в ближнем бою. Onslaught позволяет стремительно врываться в противников, Trample наносит урон врагам на пути движения, а Uproar усиливает героя после получения урона от врагов. Ультимейт Pulverize удерживает выбранную цель и наносит ей огромный урон. Особенно опасен в начале и середине игры, когда может быстро инициировать командные сражения.
+
+Герой: Primal Beast
+Роль: Оффлейнер (3), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Batrider, Faceless Void, Underlord, Outworld Destroyer, Huskar, Disruptor
+Основной закуп: Soul Ring, Phase Boots, Blink Dagger, Black King Bar, Aghanim's Scepter, Shiva's Guard, Heart of Tarrasque, Linken's Sphere
+Силён против: Spectre, Bristleback, Phantom Lancer, Drow Ranger, Dark Seer, Slark
+Контр-предметы: Silver Edge, Linken's Sphere, Abyssal Blade, Black King Bar, Pipe of Insight, Mage Slayer

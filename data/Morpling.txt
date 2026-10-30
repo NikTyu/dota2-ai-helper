@@ -1,0 +1,10 @@
+Описание: Morphling — мобильный герой-керри дальнего боя, который меняет баланс между силой и ловкостью, адаптируясь к ситуации. Waveform позволяет перемещаться сквозь врагов и наносить урон по области, Adaptive Strike наносит урон или оглушает цель в зависимости от распределения атрибутов, а Attribute Shift позволяет обменивать силу на ловкость и наоборот. Ультимейт Morph позволяет создавать копию вражеского героя и использовать её способности. Особенно силён в поздней игре благодаря высокому физическому урону, мобильности и способности переживать опасные ситуации.
+
+Герой: Morphling
+Роль: Керри (1), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Lion, Nyx Assassin, Anti-Mage, Phantom Lancer, Ancient Apparition, Axe
+Основной закуп: Power Treads, Manta Style, Dragon Lance, Butterfly, Black King Bar, Eye of Skadi, Satanic, Aghanim's Scepter
+Силён против: Sniper, Phoenix, Lifestealer, Razor, Viper, Tidehunter
+Контр-предметы: Spirit Vessel, Scythe of Vyse, Orchid Malevolence, Abyssal Blade, Eye of Skadi, Heaven's Halberd

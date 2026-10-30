@@ -1,0 +1,10 @@
+Описание: Tinker — маг дальнего боя, который за счёт перезарядки способностей наносит большой магический урон и быстро перемещается по карте. Laser наносит урон и ослепляет противника, заставляя его атаки промахиваться, Heat-Seeking Missile выпускает самонаводящиеся ракеты по ближайшим врагам, а Defense Matrix создаёт на союзнике щит от урона. Ультимейт Rearm мгновенно перезаряжает способности и большинство предметов, позволяя повторять прокаст. Особенно эффективен в роли мидера, где за счёт мобильности быстро фармит лес и давит на линии по всей карте.
+
+Герой: Tinker
+Роль: Мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Anti-Mage, Nyx Assassin, Night Stalker, Queen of Pain, Silencer, Void Spirit
+Основной закуп: Bottle, Soul Ring, Boots of Travel, Blink Dagger, Kaya, Aghanim's Shard, Ethereal Blade, Shiva's Guard, Scythe of Vyse
+Силён против: Muerta, Timbersaw, Underlord, Winter Wyvern, Troll Warlord, Ursa
+Контр-предметы: Black King Bar, Orchid Malevolence, Bloodthorn, Blade Mail, Pipe of Insight, Nullifier

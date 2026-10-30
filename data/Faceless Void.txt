@@ -1,0 +1,10 @@
+Описание: Faceless Void — герой-керри ближнего боя, который специализируется на физическом уроне, уклонении от атак и контроле противников. Time Walk позволяет быстро перемещаться и восстанавливать недавно потерянное здоровье, а Time Dilation замедляет врагов и увеличивает перезарядку их способностей. Time Lock даёт шанс оглушить противника и нанести дополнительный урон при атаке. Ультимейт Chronosphere обездвиживает всех врагов в большой области, позволяя Faceless Void и его союзникам наносить урон без ответного сопротивления. Особенно опасен в поздней игре и при удачной инициации.
+
+Герой: Faceless Void
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Night Stalker, Doom, Meepo, Huskar, Legion Commander, Chaos Knight
+Основной закуп: Power Treads, Battle Fury, Manta Style, Aghanim's Scepter, Black King Bar, Mjollnir, Butterfly, Refresher Orb
+Силён против: Weaver, Largo, Primal Beast, Elder Titan, Timbersaw, Razor
+Контр-предметы: Ghost Scepter, Aeon Disk, Heaven's Halberd, Eul's Scepter of Divinity, Wind Waker, Blink Dagger

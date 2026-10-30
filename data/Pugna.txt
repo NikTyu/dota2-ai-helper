@@ -1,0 +1,10 @@
+Описание: Pugna — маг дальнего боя, специализирующийся на нанесении магического урона, осаде строений и поддержке союзников. Nether Blast наносит урон противникам и строениям, Nether Ward наказывает врагов за использование заклинаний, а Decrepify замедляет цель и увеличивает получаемый ею магический урон, одновременно защищая её от физических атак. Ультимейт Life Drain высасывает здоровье противника или восстанавливает здоровье союзника. Особенно эффективен в роли четвёртой или пятой позиции, где способен наносить высокий урон, спасать союзников и помогать команде продавливать линии.
+
+Герой: Pugna
+Роль: Саппорт (4/5), мид (2), оффлейнер (3)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Anti-Mage, Arc Warden, Primal Beast, Nyx Assassin, Spirit Breaker, Bounty Hunter
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Glimmer Cape, Aether Lens, Aghanim's Scepter, Guardian Greaves, Force Staff, Black King Bar
+Силён против: Necrophos, Underlord, Tidehunter, Timbersaw, Shadow Fiend, Slark
+Контр-предметы: Black King Bar, Linken's Sphere, Spirit Vessel, Orchid Malevolence, Scythe of Vyse, Blink Dagger

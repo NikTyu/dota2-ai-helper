@@ -1,0 +1,10 @@
+Описание: Tusk — герой ближнего боя, специализирующийся на гангах, инициации и быстром устранении одиночных целей. Ice Shards блокирует путь противникам, Snowball позволяет ворваться в бой и временно защитить союзников, а Tag Team усиливает физический урон команды. Ультимейт Walrus PUNCH! наносит мощный критический удар и подбрасывает врага. Tusk особенно эффективен в начале игры, когда может создавать численное преимущество благодаря неожиданным атакам.
+
+Герой: Tusk
+Роль: Саппорт (4/5), оффлейнер (3), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Timbersaw, Batrider, Ember Spirit, Underlord, Terrorblade, Dragon Knight
+Основной закуп: Magic Wand, Tranquil Boots, Ring of Basilius, Blink Dagger, Aghanim's Shard, Aghanim's Scepter, Eul's Scepter of Divinity, Black King Bar
+Силён против: Legion Commander, Lifestealer, Oracle, Bounty Hunter, Abaddon, Shadow Demon
+Контр-предметы: Black King Bar, Heaven's Halberd, Force Staff, Hurricane Pike, Solar Crest, Ghost Scepter

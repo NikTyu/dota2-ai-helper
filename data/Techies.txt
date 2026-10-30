@@ -1,0 +1,10 @@
+Описание: Techies — герой дальнего боя, специализирующийся на магическом уроне, ловушках и контроле территории. Sticky Bomb замедляет врагов и наносит урон, Blast Off! позволяет прыгнуть в гущу противников с мощным взрывом, а ультимейт Remote Mines создаёт опасные мины, способные нанести огромный урон.
+
+Герой: Techies
+Роль: Мид (2), саппорт (4), саппорт (5)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Storm Spirit, Spectre, Zeus, Nyx Assassin, Clockwerk, Slark
+Основной закуп: Arcane Boots, Aether Lens, Eul's Scepter of Divinity, Force Staff, Aghanim's Shard, Aghanim's Scepter, Kaya and Sange, Octarine Core, Scythe of Vyse
+Силён против: Drow Ranger, Sniper, Crystal Maiden, Witch Doctor, Enigma, Phantom Lancer
+Контр-предметы: Black King Bar, Pipe of Insight, Glimmer Cape, Force Staff, Gem of True Sight, Sentry Ward

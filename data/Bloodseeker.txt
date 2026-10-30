@@ -1,0 +1,10 @@
+Описание: Bloodseeker — мобильный герой-керри, который преследует ослабленных врагов и быстро расправляется с ними. Blood Rite наносит урон по области и накладывает безмолвие, Bloodrage усиливает скорость атаки и урон, а Thirst повышает скорость передвижения и позволяет видеть раненых противников. Ультимейт Rupture наносит урон врагу при перемещении, наказывая за попытки убежать. Bloodseeker особенно опасен в погонях, ранних стычках и против героев, зависящих от мобильности.
+
+Герой: Bloodseeker
+Роль: Керри (1), мид (2), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Medusa, Nature's Prophet, Viper, Sniper, Troll Warlord, Juggernaut
+Основной закуп: Phase Boots, Maelstrom, Mjollnir, Sange and Yasha, Black King Bar, Skull Basher, Butterfly, Abyssal Blade
+Силён против: Anti-Mage, Night Stalker, Huskar, Pangolier, Slark, Dark Seer
+Контр-предметы: Linken's Sphere, Eul's Scepter of Divinity, Wind Waker, Lotus Orb, Blade Mail, Black King Bar

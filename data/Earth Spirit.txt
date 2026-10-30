@@ -1,0 +1,10 @@
+Описание: Earth Spirit — мобильный герой, специализирующийся на гангах, контроле и инициировании командных сражений. Использует каменные остатки для оглушения, замедления, притягивания союзников и перемещения по карте. Magnetize наносит продолжительный магический урон врагам поблизости. Эффективен для внезапных атак и нарушения позиционирования противников.
+
+Герой: Earth Spirit
+Роль: Мид (2), саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Lifestealer, Slark, Abaddon, Troll Warlord, Wraith King, Meepo
+Основной закуп: Magic Wand, Urn of Shadows, Power Treads, Spirit Vessel, Kaya and Sange, Black King Bar, Shiva's Guard
+Силён против: Drow Ranger, Sniper, Shadow Fiend, Nature's Prophet, Mars, Shadow Demon
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Force Staff, Glimmer Cape, Eul's Scepter of Divinity

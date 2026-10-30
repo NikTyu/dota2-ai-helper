@@ -1,0 +1,10 @@
+Описание: Void Spirit — мобильный герой ближнего боя, специализирующийся на магическом уроне, уклонении от атак и быстром устранении уязвимых целей. Dissimilate позволяет исчезать и наносить урон в выбранной области, Resonant Pulse создаёт защитный щит, а ультимейт Astral Step помогает стремительно перемещаться сквозь врагов и наносить мощный урон.
+
+Герой: Void Spirit
+Роль: Мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Универсальный
+Слаб против: Puck, Bloodseeker, Silencer, Doom, Night Stalker, Disruptor
+Основной закуп: Bottle, Power Treads, Witch Blade, Kaya and Sange, Aghanim's Scepter, Black King Bar, Aghanim's Shard, Octarine Core, Scythe of Vyse
+Силён против: Sniper, Drow Ranger, Crystal Maiden, Zeus, Shadow Fiend, Tinker
+Контр-предметы: Black King Bar, Linken's Sphere, Orchid Malevolence, Scythe of Vyse, Nullifier, Heaven's Halberd

@@ -1,0 +1,10 @@
+Описание: Wraith King — выносливый герой ближнего боя, способный наносить высокий физический урон и возвращаться к жизни после смерти. Wraithfire Blast оглушает и замедляет противника, Vampiric Spirit обеспечивает вампиризм и позволяет призывать скелетов для фарма и давления на линии, а Mortal Strike даёт шанс нанести критический урон. Ультимейт Reincarnation автоматически воскрешает героя при наличии маны, позволяя ему повторно вступить в бой. Особенно эффективен в затяжных сражениях и при осаде вражеских строений.
+
+Герой: Wraith King
+Роль: Керри (1), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Phantom Lancer, Phoenix, Underlord, Anti-Mage, Undying, Warlock
+Основной закуп: Phase Boots, Armlet of Mordiggian, Radiance, Blink Dagger, Aghanim's Shard, Black King Bar, Assault Cuirass, Abyssal Blade
+Силён против: Ursa, Clinkz, Night Stalker, Shadow Shaman, Enigma, Phantom Assassin
+Контр-предметы: Diffusal Blade, Silver Edge, Black King Bar, Heaven's Halberd, Spirit Vessel, Shiva's Guard

@@ -1,0 +1,10 @@
+Описание: Weaver — мобильный герой дальнего боя, специализирующийся на быстром нанесении физического урона, преследовании врагов и уходе от опасности. The Swarm выпускает жуков, которые цепляются к противникам и снижают их броню, Shukuchi позволяет ускоряться, становиться невидимым и наносить урон проходящим врагам, а Geminate Attack даёт дополнительную атаку. Ультимейт Time Lapse возвращает Weaver к его состоянию пять секунд назад, восстанавливая прежние здоровье и ману и снимая большинство отрицательных эффектов. Силен благодаря мобильности, быстрому фарму и способности атаковать врагов, не задерживаясь в опасной позиции.
+
+Герой: Weaver
+Роль: Керри (1), поддержка (4), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Faceless Void, Phantom Lancer, Drow Ranger, Riki, Axe, Lion
+Основной закуп: Power Treads, Maelstrom, Desolator, Dragon Lance, Linken's Sphere, Black King Bar, Daedalus, Satanic
+Силён против: Ursa, Dazzle, Timbersaw, Sniper, Viper, Enigma
+Контр-предметы: Dust of Appearance, Sentry Ward, Gem of True Sight, Orchid Malevolence, Scythe of Vyse, Heaven's Halberd

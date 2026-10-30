@@ -1,0 +1,10 @@
+Описание: Venomancer — герой дальнего боя, специализирующийся на постепенном уроне, замедлении и контроле территории. Venomous Gale поражает врагов ядовитым снарядом, Plague Wards помогают контролировать карту и наносить дополнительный урон, а ультимейт Noxious Plague распространяет опасную инфекцию среди противников.
+
+Герой: Venomancer
+Роль: Оффлейнер (3), саппорт (4), саппорт (5)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Abaddon, Legion Commander, Oracle, Omniknight, Slark, Juggernaut
+Основной закуп: Arcane Boots, Spirit Vessel, Rod of Atos, Gleipnir, Aghanim's Shard, Aghanim's Scepter, Guardian Greaves, Shiva's Guard, Scythe of Vyse
+Силён против: Huskar, Alchemist, Bristleback, Wraith King, Phantom Lancer, Meepo
+Контр-предметы: Black King Bar, Manta Style, Lotus Orb, Pipe of Insight, Eternal Shroud, Guardian Greaves

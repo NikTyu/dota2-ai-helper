@@ -1,0 +1,10 @@
+Описание: Beastmaster — герой ближнего боя, специализирующийся на контроле карты, разведке и инициировании сражений. Wild Axes наносят урон врагам, Call of the Wild призывает животных для разведки и давления на линии, а Inner Beast увеличивает скорость атаки союзников поблизости. Ультимейт Primal Roar оглушает противника и отбрасывает врагов на пути. Особенно эффективен на третьей позиции благодаря сильному контролю и способности помогать команде захватывать объекты.
+
+Герой: Beastmaster
+Роль: Оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Универсальный
+Слаб против: Axe, Timbersaw, Winter Wyvern, Enigma, Bane, Phantom Lancer
+Основной закуп: Phase Boots, Helm of the Dominator, Helm of the Overlord, Blink Dagger, Aghanim's Shard, Black King Bar, Assault Cuirass, Refresher Orb, Pipe of Insight
+Силён против: Sniper, Drow Ranger, Anti-Mage, Storm Spirit, Crystal Maiden, Witch Doctor
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Crimson Guard, Heaven's Halberd, Ghost Scepter

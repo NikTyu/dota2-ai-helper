@@ -1,0 +1,10 @@
+Описание: Ember Spirit — мобильный герой ближнего боя, специализирующийся на магическом и физическом уроне, быстрых гангах и уклонении от атак. Searing Chains обездвиживает врагов, Sleight of Fist позволяет атаковать несколько целей и временно избегать большинства направленных атак, а Flame Guard поглощает магический урон и наносит урон окружающим противникам. Ультимейт Fire Remnant позволяет быстро перемещаться по карте и неожиданно вступать в бой или отступать. Особенно эффективен в руках игрока, умеющего использовать мобильность для постоянного давления на врагов.
+
+Герой: Ember Spirit
+Роль: Мид (2), керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Slark, Huskar, Viper, Oracle, Troll Warlord, Monkey King
+Основной закуп: Phase Boots, Magic Wand, Urn of Shadows, Spirit Vessel, Mage Slayer, Kaya and Sange, Aghanim's Shard, Black King Bar, Aghanim's Scepter
+Силён против: Queen of Pain, Tusk, Phantom Lancer, Void Spirit, Mars, Sand King
+Контр-предметы: Black King Bar, Linken's Sphere, Orchid Malevolence, Scythe of Vyse, Ghost Scepter, Heaven's Halberd

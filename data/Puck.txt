@@ -1,0 +1,10 @@
+Описание: Puck — мобильный маг дальнего боя, специализирующийся на контроле противников, уклонении от урона и инициировании командных сражений. Illusory Orb наносит магический урон и позволяет перемещаться к сфере, Waning Rift наносит урон и накладывает безмолвие, а Phase Shift позволяет временно избегать вражеских атак и заклинаний. Ультимейт Dream Coil привязывает противников к точке и оглушает их при разрыве привязки. Особенно эффективен в роли второй позиции, где благодаря мобильности и контролю способен создавать давление на карте и переворачивать командные сражения.
+
+Герой: Puck
+Роль: Мид (2), оффлейнер (3), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Riki, Luna, Lion, Sniper, Zeus, Night Stalker
+Основной закуп: Bottle, Power Treads, Blink Dagger, Witch Blade, Parasma, Aghanim's Shard, Aghanim's Scepter, Eul's Scepter of Divinity, Octarine Core, Linken's Sphere
+Силён против: Invoker, Anti-Mage, Lich, Storm Spirit, Queen of Pain, Magnus
+Контр-предметы: Orchid Malevolence, Bloodthorn, Scythe of Vyse, Nullifier, Black King Bar, Linken's Sphere, Gleipnir

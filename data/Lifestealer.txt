@@ -1,0 +1,10 @@
+Описание: Lifestealer — керри ближнего боя, который специализируется на физическом уроне, выживаемости и затяжных сражениях. Feast восстанавливает здоровье при атаках, Rage обеспечивает невосприимчивость к отрицательным эффектам и сопротивление магии, а Infest позволяет прятаться внутри союзников или крипов. Особенно опасен против выносливых героев с большим запасом здоровья.
+
+Герой: Lifestealer
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Slardar, Razor, Doom, Enigma, Morphling, Bane
+Основной закуп: Phase Boots, Armlet of Mordiggian, Radiance, Sange and Yasha, Manta Style, Skull Basher, Abyssal Blade
+Силён против: Centaur Warrunner, Axe, Tiny, Underlord, Mars, Sand King
+Контр-предметы: Spirit Vessel, Silver Edge, Eye of Skadi, Shiva's Guard, Abyssal Blade, Heaven's Halberd

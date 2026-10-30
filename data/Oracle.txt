@@ -1,0 +1,10 @@
+Описание: Oracle — герой поддержки дальнего боя, специализирующийся на лечении союзников, снятии отрицательных эффектов и спасении героев от смерти. Fortune's End наносит урон, снимает некоторые эффекты и обездвиживает врагов, Fate's Edict защищает цель от магического урона, но запрещает ей атаковать, а Purifying Flames наносит большой магический урон и затем лечит цель. Ультимейт False Promise откладывает получение урона и усиливает лечение выбранного союзника, позволяя спасти его в критической ситуации. Oracle особенно силён в защите союзников, но требует точного выбора заклинаний и уязвим к безмолвию и снижению лечения.
+
+Герой: Oracle
+Роль: Поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Omniknight, Undying, Anti-Mage, Razor, Meepo, Chaos Knight
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Headdress, Mekansm, Blink Dagger, Aether Lens, Glimmer Cape, Aghanim's Shard, Guardian Greaves
+Силён против: Ember Spirit, Storm Spirit, Dark Seer, Necrophos, Legion Commander, Arc Warden
+Контр-предметы: Orchid Malevolence, Spirit Vessel, Shiva's Guard, Eye of Skadi, Black King Bar, Blink Dagger

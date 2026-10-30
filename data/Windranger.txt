@@ -1,0 +1,10 @@
+Описание: Windranger — мобильный герой дальнего боя, способный наносить высокий физический урон и контролировать противников. Shackleshot оглушает две цели при удачном попадании, Windrun повышает скорость передвижения и помогает уклоняться от атак, а ультимейт Focus Fire позволяет быстро уничтожать отдельные цели.
+
+Герой: Windranger
+Роль: Керри (1), мид (2), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Bloodseeker, Batrider, Zeus, Phantom Assassin, Legion Commander, Axe
+Основной закуп: Power Treads, Maelstrom, Gleipnir, Black King Bar, Aghanim's Shard, Monkey King Bar, Daedalus, Linken's Sphere, Revenant's Brooch
+Силён против: Sniper, Drow Ranger, Crystal Maiden, Witch Doctor, Shadow Shaman, Tinker
+Контр-предметы: Heaven's Halberd, Ghost Scepter, Ethereal Blade, Blade Mail, Monkey King Bar, Scythe of Vyse

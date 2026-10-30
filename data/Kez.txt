@@ -1,0 +1,10 @@
+Описание: Kez — мобильный герой-керри ближнего боя с высоким физическим уроном и большим количеством комбинаций. Переключается между катаной и парными клинками: Kazurai Katana позволяет наносить урон и восстанавливать здоровье, а Sai помогают быстро атаковать и преследовать врагов. Grappling Claw обеспечивает мобильность, Echo Slash наносит урон по области, а ультимейт Raptor Dance наносит серию ударов и даёт выживаемость в бою. Силен в дуэлях, погоне за противниками и затяжных сражениях.
+
+Герой: Kez
+Роль: Керри (1), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Medusa, Drow Ranger, Necrophos, Tidehunter, Muerta, Gyrocopter
+Основной закуп: Power Treads, Mage Slayer, Desolator, Aghanim's Scepter, Black King Bar, Daedalus, Monkey King Bar, Satanic
+Силён против: Arc Warden, Meepo, Spectre, Leshrac, Visage, Nature's Prophet
+Контр-предметы: Blade Mail, Heaven's Halberd, Ghost Scepter, Hurricane Pike, Orchid Malevolence, Shiva's Guard

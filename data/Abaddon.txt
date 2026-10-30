@@ -1,0 +1,10 @@
+Описание: Abaddon — универсальный герой ближнего боя, специализирующийся на защите союзников, лечении и выживании в сражениях. Mist Coil наносит урон врагам или лечит союзников, Aphotic Shield поглощает урон и снимает отрицательные эффекты, а ультимейт Borrowed Time превращает получаемый урон в лечение. Особенно эффективен на четвёртой и пятой позициях, а также на оффлейне благодаря высокой выживаемости и способности спасать союзников.
+
+Герой: Abaddon
+Роль: Саппорт (4/5), оффлейнер (3), керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Универсальный
+Слаб против: Outworld Destroyer, Anti-Mage, Pangolier, Ancient Apparition, Riki, Slark
+Основной закуп: Magic Wand, Arcane Boots, Holy Locket, Solar Crest, Aghanim's Scepter, Mekansm, Pipe of Insight, Aether Lens, Guardian Greaves, Lotus Orb
+Силён против: Silencer, Clinkz, Morphling, Earth Spirit, Phoenix, Ember Spirit
+Контр-предметы: Silver Edge, Spirit Vessel, Eye of Skadi, Shiva's Guard, Orchid Malevolence, Scythe of Vyse

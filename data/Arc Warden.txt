@@ -1,0 +1,10 @@
+Описание: Arc Warden — герой дальнего боя, специализирующийся на фарме, контроле противников и нанесении урона с безопасного расстояния. Flux наносит урон изолированной цели, Magnetic Field защищает союзников и усиливает дальние атаки внутри области, а Spark Wraith наносит магический урон врагам, попавшим в зону действия. Ультимейт Tempest Double создаёт копию героя, позволяя одновременно использовать способности и предметы. Особенно эффективен на миде благодаря сильному потенциалу в поздней игре.
+
+Герой: Arc Warden
+Роль: Керри (1), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Phantom Assassin, Spectre, Anti-Mage, Broodmother, Lycan, Meepo
+Основной закуп: Power Treads, Hand of Midas, Maelstrom, Gleipnir, Mjollnir, Hurricane Pike, Aghanim's Scepter, Scythe of Vyse, Butterfly, Black King Bar
+Силён против: Sniper, Drow Ranger, Shadow Fiend, Templar Assassin, Zeus, Medusa
+Контр-предметы: Blink Dagger, Black King Bar, Blade Mail, Manta Style, Silver Edge, Heaven's Halberd

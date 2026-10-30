@@ -1,0 +1,10 @@
+Описание: Bristleback — выносливый герой ближнего боя, который наносит постоянный урон с помощью Quill Spray и становится значительно устойчивее к атакам сзади благодаря пассивной способности Bristleback. Силен в затяжных драках, способен преследовать врагов и постепенно наращивать урон, но уязвим к эффектам, снижающим лечение, и героям, способным обходить его защиту.
+
+Герой: Bristleback
+Роль: Оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Slark, Viper, Legion Commander, Primal Beast, Nyx Assassin, Anti-Mage
+Основной закуп: Soul Ring, Vanguard, Power Treads, Aghanim's Shard, Lotus Orb, Sange and Yasha, Heart of Tarrasque
+Силён против: Enigma, Visage, Leshrac, Techies, Medusa, Shadow Fiend
+Контр-предметы: Spirit Vessel, Eye of Skadi, Silver Edge, Shiva's Guard, Heaven's Halberd, Scythe of Vyse

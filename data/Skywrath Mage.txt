@@ -1,0 +1,10 @@
+Описание: Skywrath Mage — маг дальнего боя, специализирующийся на нанесении высокого магического урона и безмолвии противников. Ancient Seal запрещает врагу использовать способности и увеличивает получаемый им магический урон, а ультимейт Mystic Flare наносит огромный урон по области. Особенно эффективен в роли четвёртой позиции, помогая быстро устранять вражеских героев.
+
+Герой: Skywrath Mage
+Роль: Саппорт (4/5), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Bristleback, Sven, Lycan, Tidehunter, Riki, Medusa
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Rod of Atos, Kaya, Aghanim's Shard, Glimmer Cape, Aghanim's Scepter, Scythe of Vyse
+Силён против: Necrophos, Phoenix, Timbersaw, Ember Spirit, Lifestealer, Terrorblade
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Glimmer Cape, Force Staff, Pipe of Insight

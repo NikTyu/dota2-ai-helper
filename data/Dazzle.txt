@@ -1,0 +1,10 @@
+Описание: Dazzle — саппорт дальнего боя, специализирующийся на лечении союзников, ослаблении противников и спасении героев от смерти. Poison Touch наносит урон и замедляет врагов, Shallow Grave временно не позволяет союзнику умереть, а Shadow Wave лечит союзников и наносит урон врагам поблизости. Ультимейт Bad Juju сокращает перезарядку способностей и предметов при использовании умений. Особенно эффективен на пятой позиции благодаря сильной поддержке команды.
+
+Герой: Dazzle
+Роль: Саппорт (4/5), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Ancient Apparition, Axe, Legion Commander, Silencer, Bane, Doom
+Основной закуп: Magic Wand, Arcane Boots, Holy Locket, Glimmer Cape, Force Staff, Aghanim's Shard, Solar Crest, Guardian Greaves, Aghanim's Scepter
+Силён против: Huskar, Bristleback, Phantom Assassin, Ursa, Slark, Necrophos
+Контр-предметы: Spirit Vessel, Shiva's Guard, Diffusal Blade, Nullifier, Scythe of Vyse, Orchid Malevolence

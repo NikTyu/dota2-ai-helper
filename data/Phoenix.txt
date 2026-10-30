@@ -1,0 +1,10 @@
+Описание: Phoenix — дальнобойный герой, который наносит урон по области, замедляет врагов и помогает союзникам лечением. Fire Spirits снижают скорость атаки противников, Icarus Dive позволяет ворваться в бой или отступить, а Sun Ray наносит урон врагам и лечит союзников. Ультимейт Supernova превращает Phoenix в солнце, которое оглушает врагов при успешном возрождении. Герой особенно эффективен в командных сражениях.
+
+Герой: Phoenix
+Роль: Саппорт (4/5), оффлейнер (3), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Сила
+Слаб против: Morphling, Bloodseeker, Juggernaut, Marci, Lina, Skywrath Mage
+Основной закуп: Tranquil Boots, Spirit Vessel, Aghanim's Shard, Eul's Scepter of Divinity, Shiva's Guard, Aghanim's Scepter, Refresher Orb
+Силён против: Wraith King, Templar Assassin, Terrorblade, Spectre, Treant Protector, Slardar
+Контр-предметы: Orchid Malevolence, Abyssal Blade, Hurricane Pike, Black King Bar, Silver Edge, Spirit Vessel

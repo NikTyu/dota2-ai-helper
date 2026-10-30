@@ -1,0 +1,10 @@
+Описание: Hoodwink — мобильный герой дальнего боя, специализирующийся на нанесении физического и магического урона с безопасной дистанции. Acorn Shot наносит урон нескольким целям и может создавать дерево для комбинаций со способностями, Bushwhack оглушает врагов рядом с деревьями, а Scurry позволяет быстро перемещаться и уклоняться от атак. Ультимейт Sharpshooter выпускает мощный заряженный выстрел, наносящий большой урон и накладывающий отрицательный эффект на цель. Hoodwink особенно эффективна для гангов, харасса и контроля противников издалека.
+
+Герой: Hoodwink
+Роль: Саппорт (4/5), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Timbersaw, Bloodseeker, Spirit Breaker, Phantom Lancer, Riki, Dragon Knight
+Основной закуп: Arcane Boots, Magic Wand, Ring of Basilius, Urn of Shadows, Aghanim's Shard, Rod of Atos, Aether Lens, Gleipnir
+Силён против: Anti-Mage, Bristleback, Storm Spirit, Nyx Assassin, Muerta, Underlord
+Контр-предметы: Quelling Blade, Dust of Appearance, Sentry Ward, Pipe of Insight, Blade Mail, Orchid Malevolence

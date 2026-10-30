@@ -1,0 +1,10 @@
+Описание: Dark Willow — герой поддержки дальнего боя, специализирующийся на контроле противников, магическом уроне и внезапных атаках. Bramble Maze создаёт ловушки, Cursed Crown оглушает выбранную цель после задержки, а Shadow Realm позволяет избегать атак и усиливает следующую атаку. Bedlam наносит большой урон ближайшим врагам, а Terrorize заставляет противников в страхе убегать. Dark Willow опасна в затяжных командных боях, но уязвима к мгновенному сближению, безмолвию и сильному взрывному урону.
+
+Герой: Dark Willow
+Роль: Поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Phantom Lancer, Juggernaut, Bristleback, Pugna, Bane, Winter Wyvern
+Основной закуп: Magic Wand, Tranquil Boots, Aghanim's Shard, Eul's Scepter of Divinity, Blink Dagger, Glimmer Cape, Force Staff, Aghanim's Scepter, Scythe of Vyse
+Силён против: Riki, Phantom Assassin, Storm Spirit, Tidehunter, Death Prophet, Kunkka
+Контр-предметы: Black King Bar, Lotus Orb, Orchid Malevolence, Linken's Sphere, Aeon Disk

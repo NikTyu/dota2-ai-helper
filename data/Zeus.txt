@@ -1,0 +1,10 @@
+Описание: Zeus — маг дальнего боя, специализирующийся на нанесении большого магического урона и обнаружении врагов по всей карте. Arc Lightning поражает нескольких противников молниями, Lightning Bolt наносит урон и даёт обзор, а ультимейт Thundergod's Wrath поражает всех вражеских героев независимо от их местоположения. Особенно эффективен на четвёртой позиции и в миде благодаря высокому урону и возможности добивать врагов на расстоянии.
+
+Герой: Zeus
+Роль: Саппорт (4/5), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Meepo, Storm Spirit, Huskar, Broodmother, Anti-Mage, Lifestealer
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Kaya, Aghanim's Scepter, Aghanim's Shard, Phylactery, Eul's Scepter of Divinity, Refresher Orb, Octarine Core
+Силён против: Sand King, Drow Ranger, Puck, Riki, Luna, Elder Titan
+Контр-предметы: Black King Bar, Mage Slayer, Eternal Shroud, Pipe of Insight, Cloak, Infused Raindrops

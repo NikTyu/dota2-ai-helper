@@ -1,0 +1,10 @@
+Описание: Shadow Fiend — герой дальнего боя, специализирующийся на нанесении большого физического и магического урона. Necromastery позволяет накапливать души и увеличивать урон атак, Shadowraze наносит магический урон на разных дистанциях, а Presence of the Dark Lord снижает броню врагов поблизости. Ультимейт Requiem of Souls выпускает волны душ, нанося урон и пугая противников. Силен на линии, быстро фармит и способен уничтожать целые команды при удачном использовании ультимейта.
+
+Герой: Shadow Fiend
+Роль: Мид (2), керри (1)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Medusa, Mars, Ursa, Windranger, Dragon Knight, Zeus
+Основной закуп: Power Treads, Eul's Scepter of Divinity, Mask of Madness, Yasha and Kaya, Blink Dagger, Black King Bar, Aghanim's Scepter, Daedalus
+Силён против: Meepo, Anti-Mage, Undying, Elder Titan, Riki, Chaos Knight
+Контр-предметы: Black King Bar, Blade Mail, Glimmer Cape, Pipe of Insight, Aeon Disk, Orchid Malevolence

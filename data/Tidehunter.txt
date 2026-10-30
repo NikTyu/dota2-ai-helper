@@ -1,0 +1,10 @@
+Описание: Tidehunter — выносливый герой ближнего боя, специализирующийся на инициации и контроле в командных сражениях. Gush наносит урон и снижает броню врага, Kraken Shell блокирует часть физического урона и снимает негативные эффекты, а Anchor Smash уменьшает урон атак противников поблизости. Ультимейт Ravage оглушает врагов в большой области, позволяя команде начать бой с выгодной позиции. Особенно эффективен против героев, зависящих от физических атак, и иллюзионистов.
+
+Герой: Tidehunter
+Роль: Оффлейнер (3), саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Slark, Timbersaw, Anti-Mage, Muerta, Lifestealer, Juggernaut
+Основной закуп: Soul Ring, Phase Boots, Ring of Basilius, Vladmir's Offering, Blink Dagger, Aghanim's Shard, Aghanim's Scepter, Shiva's Guard, Refresher Orb
+Силён против: Phantom Lancer, Chaos Knight, Naga Siren, Wraith King, Medusa, Terrorblade
+Контр-предметы: Linken's Sphere, Black King Bar, Eul's Scepter of Divinity, Wind Waker, Force Staff, Pipe of Insight

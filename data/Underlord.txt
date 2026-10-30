@@ -1,0 +1,10 @@
+Описание: Underlord — выносливый герой ближнего боя, который контролирует пространство, ослабляет атаки врагов и помогает команде продавливать линии. Firestorm наносит периодический урон по области, Pit of Malice периодически обездвиживает противников, а Atrophy Aura снижает базовый урон врагов и усиливает самого Underlord после их смерти. Ультимейт Fiend's Gate создаёт порталы для быстрого перемещения героя и союзников по карте. Особенно эффективен в затяжных командных боях и при защите или осаде объектов.
+
+Герой: Underlord
+Роль: Оффлейнер (3), саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Rubick, Juggernaut, Lifestealer, Tinker, Pugna, Muerta
+Основной закуп: Soul Ring, Magic Wand, Arcane Boots, Rod of Atos, Aghanim's Scepter, Guardian Greaves, Pipe of Insight, Shiva's Guard
+Силён против: Meepo, Phantom Lancer, Spirit Breaker, Wraith King, Lone Druid, Primal Beast
+Контр-предметы: Silver Edge, Black King Bar, Spirit Vessel, Pipe of Insight, Force Staff, Lotus Orb

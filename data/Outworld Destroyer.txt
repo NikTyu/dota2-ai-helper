@@ -1,0 +1,10 @@
+Описание: Outworld Destroyer (OD) — герой дальнего боя, специализирующийся на нанесении чистого урона, контроле противников и уничтожении целей с помощью запаса маны. Arcane Orb наносит дополнительный чистый урон, зависящий от маны героя, Astral Imprisonment временно убирает цель с поля боя и может использоваться для спасения союзников или подготовки атаки. Essence Flux помогает поддерживать запас маны, а Sanity's Eclipse наносит мощный урон врагам в зависимости от разницы в запасах маны. OD особенно опасен в дуэлях и на средней стадии игры, но уязвим к героям с иллюзиями, манабёрном и способностями, мешающими ему безопасно атаковать.
+
+Герой: Outworld Destroyer
+Роль: Мидер (2), керри (1)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Nyx Assassin, Phantom Lancer, Chaos Knight, Puck, Arc Warden, Pangolier
+Основной закуп: Power Treads, Witch Blade, Blink Dagger, Dragon Lance, Hurricane Pike, Black King Bar, Aghanim's Scepter, Parasma, Scythe of Vyse
+Силён против: Timbersaw, Slark, Ancient Apparition, Abaddon, Primal Beast, Morphling
+Контр-предметы: Black King Bar, Linken's Sphere, Disperser, Manta Style, Pipe of Insight

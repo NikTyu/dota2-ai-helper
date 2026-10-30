@@ -1,0 +1,10 @@
+Описание: Elder Titan — герой, специализирующийся на командных сражениях, контроле и снижении брони противников. Astral Spirit позволяет получать дополнительный урон и скорость передвижения, Echo Stomp усыпляет врагов, а Natural Order снижает их броню. Earth Splitter наносит мощный урон по области и особенно эффективен против сгруппированных противников.
+
+Герой: Elder Titan
+Роль: Саппорт (4, 5), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Phantom Assassin, Slardar, Crystal Maiden, Huskar, Sniper, Shadow Fiend
+Основной закуп: Tranquil Boots, Magic Wand, Drum of Endurance, Echo Sabre, Aghanim's Scepter, Force Staff, Blink Dagger
+Силён против: Meepo, Pugna, Enchantress, Shadow Demon, Tidehunter, Phantom Lancer
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Force Staff, Glimmer Cape, Pipe of Insight

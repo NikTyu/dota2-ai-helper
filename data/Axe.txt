@@ -1,0 +1,10 @@
+Описание: Axe — инициатор и танк, который провоцирует врагов атаковать его с помощью Berserker's Call, нанося урон по области через Counter Helix. Эффективно начинает драки с Blink Dagger и добивает ослабленных врагов ультимейтом Culling Blade.
+
+Герой: Axe
+Роль: Оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Lifestealer, Tiny, Timbersaw, Lone Druid, Spectre, Doom
+Основной закуп: Phase Boots, Vanguard, Blade Mail, Blink Dagger, Aghanim's Shard, Black King Bar
+Силён против: Phantom Lancer, Anti-Mage, Naga Siren, Terrorblade, Broodmother, Phantom Assassin
+Контр-предметы: Blade Mail, Eul's Scepter of Divinity, Lotus Orb

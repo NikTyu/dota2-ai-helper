@@ -1,0 +1,10 @@
+Описание: Ursa — герой-керри ближнего боя, специализирующийся на быстром уничтожении одиночных целей и нанесении огромного физического урона. Earthshock наносит урон по области и замедляет врагов, Overpower значительно увеличивает скорость атаки, а Fury Swipes усиливает каждый последующий удар по одной цели. Ультимейт Enrage уменьшает входящий урон и снимает многие отрицательные эффекты. Ursa особенно силён в дуэлях, ранних драках и убийстве Рошана.
+
+Герой: Ursa
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Phantom Lancer, Spectre, Wraith King, Razor, Bristleback, Weaver
+Основной закуп: Phase Boots, Battle Fury, Blink Dagger, Skull Basher, Black King Bar, Aghanim's Shard, Abyssal Blade, Satanic
+Силён против: Anti-Mage, Pudge, Timbersaw, Underlord, Nyx Assassin, Bane
+Контр-предметы: Heaven's Halberd, Ghost Scepter, Force Staff, Hurricane Pike, Scythe of Vyse, Crimson Guard

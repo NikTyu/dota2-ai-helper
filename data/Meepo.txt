@@ -1,0 +1,10 @@
+Описание: Meepo — герой ближнего боя, специализирующийся на фарме, мобильности и численном превосходстве. Divided We Stand создаёт его копии, которые могут независимо передвигаться, атаковать и использовать большинство способностей и предметов. Poof позволяет копиям телепортироваться друг к другу, нанося урон по области, Earthbind обездвиживает врагов, а Ransack наносит чистый урон и восстанавливает здоровье. Ультимейт MegaMeepo объединяет копии в мощную боевую форму. Герой требует высокого микроконтроля и способен быстро захватить преимущество за счёт ускоренного фарма.
+
+Герой: Meepo
+Роль: Мид (2), керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Earthshaker, Elder Titan, Underlord, Winter Wyvern, Sven, Necrophos
+Основной закуп: Power Treads, Diffusal Blade, Sange and Yasha, Eye of Skadi, Blink Dagger, Aghanim's Scepter, Aghanim's Shard, Butterfly
+Силён против: Anti-Mage, Arc Warden, Shadow Shaman, Pudge, Windranger, Spectre
+Контр-предметы: Black King Bar, Radiance, Spirit Vessel, Shiva's Guard, Crimson Guard, Heaven's Halberd

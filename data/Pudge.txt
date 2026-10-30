@@ -1,0 +1,10 @@
+Описание: Pudge — выносливый герой ближнего боя, специализирующийся на захвате и устранении одиночных целей. Meat Hook позволяет притягивать врагов на большое расстояние, Rot наносит урон вокруг героя, а Flesh Heap увеличивает его запас здоровья и устойчивость. Ультимейт Dismember обездвиживает противника и наносит урон, зависящий от силы Pudge. Особенно опасен при внезапных атаках из тумана войны и хорошо наказывает неосторожное позиционирование врагов.
+
+Герой: Pudge
+Роль: Саппорт (4/5), мид (2), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Timbersaw, Terrorblade, Pangolier, Ursa, Weaver, Slardar
+Основной закуп: Magic Wand, Tranquil Boots, Urn of Shadows, Blink Dagger, Aether Lens, Aghanim's Shard, Aghanim's Scepter, Shiva's Guard
+Силён против: Tinker, Clinkz, Crystal Maiden, Muerta, Bane, Pugna
+Контр-предметы: Linken's Sphere, Spirit Vessel, Lotus Orb, Black King Bar, Pipe of Insight, Force Staff

@@ -1,0 +1,10 @@
+Описание: Storm Spirit — мобильный маг дальнего боя, специализирующийся на гангах, быстром перемещении по карте и взрывном магическом уроне. Static Remnant наносит урон врагам поблизости, Electric Vortex притягивает противника, а Overload усиливает атаки после применения способностей. Ультимейт Ball Lightning позволяет стремительно перемещаться на большие расстояния, расходуя ману. Особенно эффективен в роли мидера, где благодаря мобильности способен находить одиночные цели и создавать давление по всей карте.
+
+Герой: Storm Spirit
+Роль: Мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Huskar, Anti-Mage, Riki, Lion, Puck, Medusa
+Основной закуп: Power Treads, Witch Blade, Kaya and Sange, Orchid Malevolence, Aghanim's Shard, Black King Bar, Bloodthorn, Scythe of Vyse, Refresher Orb
+Силён против: Sniper, Venomancer, Zeus, Nature's Prophet, Ancient Apparition, Shadow Fiend
+Контр-предметы: Orchid Malevolence, Bloodthorn, Scythe of Vyse, Black King Bar, Linken's Sphere, Diffusal Blade

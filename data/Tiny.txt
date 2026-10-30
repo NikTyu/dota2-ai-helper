@@ -1,0 +1,10 @@
+Описание: Tiny — мощный герой ближнего боя с огромным физическим уроном и сильными способностями для инициации. Avalanche наносит урон и оглушает врагов по области, Toss подбрасывает цель и наносит ей урон, а Tree Grab позволяет использовать дерево для усиленных атак по нескольким противникам. Ультимейт Grow увеличивает урон и выносливость Tiny, превращая его в опасного бойца в поздней игре. Особенно силён против хрупких героев и иллюзионистов.
+
+Герой: Tiny
+Роль: Оффлейнер (3), мид (2), керри (1), саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Lifestealer, Necrophos, Rubick, Chaos Knight, Timbersaw, Underlord
+Основной закуп: Power Treads, Phase Boots, Blink Dagger, Echo Sabre, Shadow Blade, Black King Bar, Harpoon, Daedalus
+Силён против: Phantom Lancer, Slark, Puck, Spirit Breaker, Dark Seer, Drow Ranger
+Контр-предметы: Linken's Sphere, Heaven's Halberd, Silver Edge, Black King Bar, Ghost Scepter, Force Staff

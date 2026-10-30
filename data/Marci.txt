@@ -1,0 +1,10 @@
+Описание: Marci — мобильный герой ближнего боя, специализирующийся на быстрых атаках, контроле и поддержке союзников. Dispose позволяет отбрасывать врагов, Rebound помогает стремительно сближаться с целью, а Unleash временно повышает боевую мощь героини и позволяет наносить серии быстрых ударов.
+
+Герой: Marci
+Роль: Керри (1), мид (2), оффлейнер (3), саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Универсальный
+Слаб против: Viper, Razor, Puck, Shadow Demon, Winter Wyvern, Lion
+Основной закуп: Phase Boots, Echo Sabre, Desolator, Black King Bar, Aghanim's Shard, Satanic, Basher, Skull Basher, Abyssal Blade
+Силён против: Sniper, Drow Ranger, Crystal Maiden, Witch Doctor, Zeus, Skywrath Mage
+Контр-предметы: Heaven's Halberd, Ghost Scepter, Eul's Scepter of Divinity, Scythe of Vyse, Force Staff, Black King Bar

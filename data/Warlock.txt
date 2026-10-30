@@ -1,0 +1,10 @@
+Описание: Warlock — саппорт дальнего боя, специализирующийся на командных сражениях, замедлении противников и нанесении урона по области. Fatal Bonds связывает врагов и распределяет получаемый ими урон, Shadow Word лечит союзников или наносит урон врагам, а Upheaval постепенно замедляет противников. Ультимейт Chaotic Offering призывает голема, оглушающего врагов при появлении. Особенно эффективен на пятой позиции благодаря сильным способностям для командных сражений.
+
+Герой: Warlock
+Роль: Саппорт (4/5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Bounty Hunter, Jakiro, Slark, Tidehunter, Sven, Weaver
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Glimmer Cape, Aghanim's Shard, Aether Lens, Aghanim's Scepter, Refresher Orb, Force Staff, Guardian Greaves
+Силён против: Phantom Lancer, Wraith King, Terrorblade, Enigma, Naga Siren, Legion Commander
+Контр-предметы: Black King Bar, Mage Slayer, Lotus Orb, Pipe of Insight, Glimmer Cape, Force Staff

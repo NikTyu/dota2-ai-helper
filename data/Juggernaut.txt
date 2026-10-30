@@ -1,0 +1,10 @@
+Описание: Juggernaut — герой-керри ближнего боя, сочетающий высокий физический урон, выживаемость и быстрое уничтожение одиночных целей. Blade Fury наносит магический урон по области и защищает от большинства магических эффектов, Healing Ward восстанавливает здоровье союзников, а Blade Dance даёт шанс нанести критический удар. Ультимейт Omnislash делает Juggernaut временно неуязвимым для выбора целью и позволяет наносить серию атак противникам. Особенно силён в дуэлях, затяжных боях и при быстром фарме.
+
+Герой: Juggernaut
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Clinkz, Warlock, Legion Commander, Axe, Visage, Omniknight
+Основной закуп: Power Treads, Battle Fury, Manta Style, Butterfly, Aghanim's Scepter, Blink Dagger, Monkey King Bar, Abyssal Blade
+Силён против: Underlord, Phoenix, Crystal Maiden, Tidehunter, Nyx Assassin, Sand King
+Контр-предметы: Ghost Scepter, Heaven's Halberd, Blade Mail, Crimson Guard, Shiva's Guard, Scythe of Vyse

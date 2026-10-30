@@ -1,0 +1,10 @@
+Описание: Treant Protector — выносливый герой поддержки, который помогает союзникам лечением, защитой и массовым контролем. Nature's Grasp создаёт замедляющие и наносящие урон заросли, Leech Seed наносит урон врагу и лечит союзников поблизости, а Living Armor защищает союзных героев и строения. Ультимейт Overgrowth опутывает врагов в большой области, не позволяя им двигаться, атаковать и использовать Blink. Особенно эффективен для защиты башен, контроля карты и командных сражений.
+
+Герой: Treant Protector
+Роль: Саппорт (5/4), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Phoenix, Necrophos, Timbersaw, Batrider, Viper, Ursa
+Основной закуп: Arcane Boots, Magic Wand, Blink Dagger, Aghanim's Shard, Meteor Hammer, Solar Crest, Aghanim's Scepter, Lotus Orb
+Силён против: Night Stalker, Meepo, Clinkz, Bloodseeker, Legion Commander, Spectre
+Контр-предметы: Black King Bar, Sentry Ward, Gem of True Sight, Quelling Blade, Spirit Vessel, Nullifier

@@ -1,0 +1,15 @@
+# Виртуальное окружение и кэш Python
+.venv/
+__pycache__/
+*.pyc
+
+# Индексы строятся командой: python indexer.py
+index/
+
+# Отчёты, которые программа сохраняет при каждом подборе (пример оставляем)
+build_*.txt
+!build_monkey_king.txt
+
+# Служебные файлы macOS
+.DS_Store
+__MACOSX/

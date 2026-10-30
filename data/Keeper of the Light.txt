@@ -1,0 +1,10 @@
+Описание: Keeper of the Light — герой дальнего боя, специализирующийся на магическом уроне, восстановлении маны и контроле пространства. Illuminate выпускает мощную волну света, наносящую урон по линии, Chakra Magic восстанавливает ману союзнику и сокращает перезарядку его способностей, а Blinding Light отталкивает врагов и снижает точность их атак. Will-O-Wisp притягивает противников к свету и мешает им свободно передвигаться. Keeper of the Light особенно силён в затяжных боях, защите линий и быстром продвижении по карте, но уязвим к героям, которые могут быстро добраться до него и прервать применение заклинаний.
+
+Герой: Keeper of the Light
+Роль: Мидер (2), поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Anti-Mage, Phantom Assassin, Legion Commander, Faceless Void, Slardar, Nyx Assassin
+Основной закуп: Magic Wand, Tranquil Boots, Urn of Shadows, Spirit Vessel, Dagon, Aghanim's Scepter, Octarine Core, Ethereal Blade
+Силён против: Necrophos, Terrorblade, Techies, Death Prophet, Lone Druid, Dawnbreaker
+Контр-предметы: Black King Bar, Abyssal Blade, Mage Slayer, Blink Dagger, Orchid Malevolence

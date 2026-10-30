@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dota 2 AI Helper</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+        <path d="M16 2 30 16 16 30 2 16Z" fill="none" stroke="currentColor" stroke-width="2"/>
+        <path d="M9 9h5l9 9v5h-5L9 14Z" fill="currentColor"/>
+      </svg>
+      <div>
+        <div class="brand-title">Dota 2 <span>AI Helper</span></div>
+        <div class="brand-sub">Подбор предметов по драфту из локальной базы</div>
+      </div>
+    </div>
+    <div class="status" id="status">
+      <span class="pill" id="st-heroes">— героев</span>
+      <span class="pill" id="st-items">— предметов</span>
+      <span class="pill" id="st-llm"><i class="dot"></i>Ollama</span>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-view="draft" role="tab">Драфт и билд</button>
+    <button class="tab" data-view="agent" role="tab">Спросить агента <span class="tab-badge">RAG · MCP</span></button>
+  </nav>
+
+  <main class="layout" id="view-draft">
+    <section class="panel draft">
+      <div class="panel-head">
+        <h2>Драфт</h2>
+        <p class="hint">Выбери слот, затем героя из списка</p>
+      </div>
+
+      <div class="slots">
+        <div class="slot-group me">
+          <div class="slot-label">Твой герой</div>
+          <div class="slot-row" data-group="me"></div>
+        </div>
+        <div class="slot-group allies">
+          <div class="slot-label"><i class="side radiant"></i>Союзники</div>
+          <div class="slot-row" data-group="allies"></div>
+        </div>
+        <div class="slot-group enemies">
+          <div class="slot-label"><i class="side dire"></i>Враги</div>
+          <div class="slot-row" data-group="enemies"></div>
+        </div>
+      </div>
+
+      <div class="pool">
+        <div class="pool-tools">
+          <label class="search">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-4-4"/></svg>
+            <input id="search" type="search" placeholder="Поиск героя…" autocomplete="off" spellcheck="false">
+          </label>
+          <div class="filters" id="filters">
+            <button class="chip active" data-attr="all">Все</button>
+            <button class="chip" data-attr="Сила"><i class="attr str"></i>Сила</button>
+            <button class="chip" data-attr="Ловкость"><i class="attr agi"></i>Ловкость</button>
+            <button class="chip" data-attr="Интеллект"><i class="attr int"></i>Интеллект</button>
+            <button class="chip" data-attr="Универсальный"><i class="attr uni"></i>Универсал</button>
+          </div>
+        </div>
+        <div class="hero-grid" id="grid"></div>
+      </div>
+
+      <div class="situations">
+        <div class="sit-head">
+          <div class="slot-label">Ситуация в игре</div>
+          <div class="seg" id="position" role="group" aria-label="Позиция">
+            <button data-pos="auto" title="По первой роли из карточки героя">Авто</button>
+            <button data-pos="core">Кор 1–3</button>
+            <button data-pos="support">Саппорт 4–5</button>
+          </div>
+        </div>
+        <div class="sit-list" id="sits"></div>
+        <p class="sit-hint" id="sit-hint"></p>
+      </div>
+
+      <div class="draft-actions">
+        <button class="btn ghost" id="clear">Очистить</button>
+        <button class="btn primary" id="build" disabled>
+          Собрать билд
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+        </button>
+      </div>
+    </section>
+
+    <section class="panel result" id="result">
+      <div class="empty">
+        <svg viewBox="0 0 120 120" aria-hidden="true">
+          <path d="M60 8 112 60 60 112 8 60Z"/>
+          <path d="M60 28 92 60 60 92 28 60Z"/>
+          <circle cx="60" cy="60" r="6"/>
+        </svg>
+        <h3>Билд появится здесь</h3>
+        <p>Выбери своего героя, добавь союзников и врагов и нажми «Собрать билд». Предметы берутся только из локальной базы.</p>
+      </div>
+    </section>
+  </main>
+
+  <main class="layout agent-layout" id="view-agent" hidden>
+    <section class="panel ask">
+      <div class="panel-head">
+        <h2>Агент</h2>
+        <p class="hint" id="agent-model">Локальная модель + база знаний</p>
+      </div>
+      <form class="ask-form" id="ask-form">
+        <textarea id="question" rows="3" maxlength="1000" placeholder="Например: я играю на Phoenix против Huskar и PA, линию проиграл — что собрать?"></textarea>
+        <div class="examples" id="examples"></div>
+        <div class="ask-row">
+          <label class="check">
+            <input type="checkbox" id="use-draft">
+            <span>Учитывать драфт</span>
+            <small id="draft-summary">драфт пуст</small>
+          </label>
+          <button class="btn primary" id="ask" type="submit">
+            Спросить
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </button>
+        </div>
+      </form>
+      <div class="answers" id="answers">
+        <div class="empty small">
+          <h3>Задай вопрос по матчу</h3>
+          <p>Агент найдёт карточки в векторной базе и графе знаний, вызовет инструменты по протоколу MCP и проверит каждый названный предмет по базе.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="panel trace" id="trace">
+      <div class="panel-head">
+        <h2>Как агент пришёл к ответу</h2>
+      </div>
+      <div class="index-status" id="agent-status"></div>
+      <div class="trace-body" id="trace-body">
+        <p class="mu-none">Здесь появится ход работы агента: найденные карточки, вызовы инструментов и проверка ответа.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    Данные локальные и могут не соответствовать текущему патчу. Модель только ранжирует предметы из базы, но не придумывает их.
+  </footer>
+
+  <dialog id="modal">
+    <div class="modal-body">
+      <button class="modal-close" id="modal-close" aria-label="Закрыть">×</button>
+      <div id="modal-content"></div>
+    </div>
+  </dialog>
+  <div class="toast" id="toast" role="status"></div>
+
+  <script src="app.js"></script>
+  <script src="agent.js"></script>
+</body>
+</html>

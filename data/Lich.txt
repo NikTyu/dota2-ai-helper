@@ -1,0 +1,10 @@
+Описание: Lich — герой поддержки дальнего боя, специализирующийся на замедлении врагов, защите союзников и нанесении магического урона. Frost Blast наносит урон и замедляет цель вместе с окружающими противниками, Frost Shield уменьшает получаемый союзником урон от атак, а Sinister Gaze притягивает врага к Lich и высасывает его ману. Ультимейт Chain Frost выпускает ледяную сферу, которая отскакивает между противниками, нанося урон и замедляя их. Lich особенно опасен в командных боях, когда враги стоят близко друг к другу.
+
+Герой: Lich
+Роль: Поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Bristleback, Lycan, Anti-Mage, Nyx Assassin, Puck, Shadow Demon
+Основной закуп: Magic Wand, Wind Lace, Tranquil Boots, Infused Raindrops, Glimmer Cape, Aghanim's Shard, Blink Dagger, Aether Lens, Force Staff, Aghanim's Scepter
+Силён против: Medusa, Necrophos, Abaddon, Primal Beast, Chaos Knight, Terrorblade
+Контр-предметы: Black King Bar, Linken's Sphere, Mage Slayer, Eternal Shroud, Pipe of Insight

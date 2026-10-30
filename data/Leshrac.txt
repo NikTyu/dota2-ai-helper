@@ -1,0 +1,10 @@
+Описание: Leshrac — герой дальнего боя, специализирующийся на магическом уроне по области, быстром уничтожении крипов и разрушении башен. Split Earth оглушает врагов в выбранной области, Lightning Storm наносит урон и замедляет противников, а Diabolic Edict создаёт взрывы, особенно эффективные против одиночных целей и строений. Pulse Nova постоянно наносит магический урон вокруг героя, пока способность активна. Leshrac особенно силён в затяжных командных боях и при продвижении по линиям, но сильно зависит от маны и уязвим к магическому сопротивлению, контролю и снижению его выживаемости.
+
+Герой: Leshrac
+Роль: Керри (1), мидер (2), оффлейнер (3), поддержка (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Undying, Slardar, Clinkz, Bristleback, Nyx Assassin, Lifestealer
+Основной закуп: Null Talisman, Magic Wand, Ring of Basilius, Arcane Boots, Blink Dagger, Kaya, Eul's Scepter of Divinity, Kaya and Sange, Bloodstone, Black King Bar, Shiva's Guard
+Силён против: Phantom Lancer, Meepo, Necrophos, Naga Siren, Slark, Terrorblade
+Контр-предметы: Black King Bar, Pipe of Insight, Mage Slayer, Cloak, Infused Raindrops, Eul's Scepter of Divinity

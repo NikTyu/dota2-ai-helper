@@ -1,0 +1,10 @@
+Описание: Visage — герой дальнего боя, специализирующийся на призыве существ, быстром уничтожении целей и контроле карты. Soul Assumption наносит мощный урон противникам, получившим много урона за короткое время, а Summon Familiars призывает фамильяров, способных оглушать врагов и быстро разрушать строения.
+
+Герой: Visage
+Роль: Мид (2), оффлейнер (3), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Earthshaker, Timbersaw, Leshrac, Zeus, Winter Wyvern, Shadow Fiend
+Основной закуп: Power Treads, Medallion of Courage, Solar Crest, Aghanim's Shard, Drum of Endurance, Boots of Bearing, Assault Cuirass, Scythe of Vyse, Shiva's Guard
+Силён против: Sniper, Drow Ranger, Crystal Maiden, Witch Doctor, Nature's Prophet, Shadow Shaman
+Контр-предметы: Crimson Guard, Shiva's Guard, Black King Bar, Ghost Scepter, Glimmer Cape, Force Staff

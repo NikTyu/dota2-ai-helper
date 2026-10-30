@@ -1,0 +1,10 @@
+Описание: Undying — герой поддержки ближнего боя, который ослабляет противников, истощает их силу и доминирует в затяжных командных сражениях. Decay наносит урон и временно крадёт силу врагов, Soul Rip наносит урон противникам или лечит союзников, а Tombstone создаёт зомби, замедляющих преследуемые цели. Ультимейт Flesh Golem усиливает Undying и увеличивает опасность его атак. Особенно эффективен в ранних драках и при захвате пространства вокруг команды.
+
+Герой: Undying
+Роль: Саппорт (4/5), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Medusa, Luna, Meepo, Morphling, Marci, Ancient Apparition
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Mekansm, Glimmer Cape, Blink Dagger, Guardian Greaves, Aghanim's Scepter
+Силён против: Spectre, Wraith King, Leshrac, Tiny, Omniknight, Abaddon
+Контр-предметы: Black King Bar, Heaven's Halberd, Pipe of Insight, Crimson Guard, Spirit Vessel, Shiva's Guard

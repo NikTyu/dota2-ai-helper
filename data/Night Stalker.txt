@@ -1,0 +1,10 @@
+Описание: Night Stalker — выносливый герой ближнего боя, который особенно опасен ночью. Благодаря повышенной скорости передвижения и атаки он быстро настигает врагов, а Void наносит урон и замедляет цель. Crippling Fear запрещает противникам использовать способности, что делает Night Stalker опасным охотником на саппортов и мобильных героев. Ультимейт Dark Ascension усиливает его в сражениях и позволяет видеть врагов сквозь препятствия.
+
+Герой: Night Stalker
+Роль: Оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Broodmother, Lycan, Naga Siren, Meepo, Terrorblade, Troll Warlord
+Основной закуп: Soul Ring, Phase Boots, Echo Sabre, Blink Dagger, Black King Bar, Harpoon, Nullifier, Assault Cuirass
+Силён против: Puck, Slark, Void Spirit, Faceless Void, Anti-Mage, Tinker
+Контр-предметы: Black King Bar, Spirit Vessel, Heaven's Halberd, Ghost Scepter, Force Staff, Glimmer Cape

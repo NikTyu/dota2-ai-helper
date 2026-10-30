@@ -1,0 +1,10 @@
+Описание: Nyx Assassin — герой ближнего боя, специализирующийся на разведке, внезапных атаках и контроле одиночных целей. Vendetta позволяет становиться невидимым и наносить мощный удар из засады, Impale оглушает врагов по линии, а Mana Burn наказывает героев с большим запасом интеллекта. Особенно эффективен против уязвимых магов.
+
+Герой: Nyx Assassin
+Роль: Саппорт (4), саппорт (5)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Slardar, Bounty Hunter, Zeus, Bristleback, Axe, Timbersaw
+Основной закуп: Arcane Boots, Magic Wand, Blink Dagger, Aghanim's Shard, Dagon, Aether Lens, Force Staff, Scythe of Vyse, Wind Waker
+Силён против: Zeus, Tinker, Skywrath Mage, Sniper, Crystal Maiden, Lina
+Контр-предметы: Black King Bar, Linken's Sphere, Gem of True Sight, Dust of Appearance, Sentry Ward, Aeon Disk

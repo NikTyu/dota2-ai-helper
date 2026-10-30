@@ -1,0 +1,10 @@
+Описание: Lion — герой поддержки дальнего боя, специализирующийся на контроле противников и мощном магическом уроне по одной цели. Earth Spike наносит урон и оглушает врагов на линии, Hex превращает противника в беззащитное существо, а Mana Drain высасывает ману и замедляет цель. Ультимейт Finger of Death наносит огромный магический урон и получает дополнительный урон за убийства героев. Lion особенно опасен против мобильных героев, которых может поймать цепочкой контроля, но сам уязвим к взрывному урону и героям, способным пережить его комбинацию.
+
+Герой: Lion
+Роль: Поддержка (4), полная поддержка (5), мидер (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Rubick, Wraith King, Spectre, Dragon Knight, Luna, Tidehunter
+Основной закуп: Magic Wand, Tranquil Boots, Blink Dagger, Glimmer Cape, Aghanim's Shard, Aether Lens, Force Staff, Aghanim's Scepter, Aeon Disk
+Силён против: Broodmother, Naga Siren, Storm Spirit, Slark, Faceless Void, Anti-Mage
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Glimmer Cape, Pipe of Insight, Aeon Disk

@@ -1,0 +1,10 @@
+Описание: Broodmother — мобильный герой, который захватывает линии и территорию благодаря паутине и армии пауков. Spin Web повышает скорость передвижения и позволяет перемещаться по сложному рельефу, Incapacitating Bite замедляет врагов и снижает их точность, а Spawn Spiderlings создаёт паучков из поражённых врагов. Ультимейт Insatiable Hunger усиливает атаки и даёт вампиризм, позволяя Broodmother быстро уничтожать цели и восстанавливать здоровье. Особенно сильна при быстром фарме, сплит-пуше и захвате вражеских объектов.
+
+Герой: Broodmother
+Роль: Мид (2), оффлейнер (3), керри (1)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Earthshaker, Spirit Breaker, Tidehunter, Dragon Knight, Primal Beast, Necrophos
+Основной закуп: Soul Ring, Power Treads, Oblivion Staff, Orchid Malevolence, Manta Style, Black King Bar, Bloodthorn, Butterfly
+Силён против: Arc Warden, Lifestealer, Invoker, Anti-Mage, Hoodwink, Night Stalker
+Контр-предметы: Shiva's Guard, Crimson Guard, Boots of Travel, Sentry Ward, Gem of True Sight, Gleipnir

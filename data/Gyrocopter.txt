@@ -1,0 +1,10 @@
+Описание: Gyrocopter — герой дальнего боя, способный наносить огромный физический урон сразу нескольким противникам. Rocket Barrage наносит быстрый урон ближайшим врагам, Homing Missile преследует цель и оглушает её, а Flak Cannon позволяет атакам поражать нескольких противников одновременно. Ультимейт Call Down обрушивает ракетный удар по области, нанося урон и замедляя врагов. Gyrocopter эффективен как керри благодаря сильному командному урону, а также может играть на позиции поддержки.
+
+Герой: Gyrocopter
+Роль: Керри (1), мид (2), саппорт (4/5)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Venomancer, Spectre, Phantom Lancer, Lifestealer, Anti-Mage, Viper
+Основной закуп: Power Treads, Falcon Blade, Maelstrom, Aghanim's Shard, Black King Bar, Aghanim's Scepter, Daedalus, Satanic
+Силён против: Tiny, Shadow Fiend, Templar Assassin, Drow Ranger, Mars, Weaver
+Контр-предметы: Black King Bar, Linken's Sphere, Heaven's Halberd, Ghost Scepter, Blade Mail, Crimson Guard

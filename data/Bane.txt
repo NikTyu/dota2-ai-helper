@@ -1,0 +1,10 @@
+Описание: Bane — саппорт дальнего боя, специализирующийся на контроле одиночных целей и нейтрализации опасных противников. Nightmare усыпляет цель, Enfeeble ослабляет врага, а Brain Sap наносит чистый урон и восстанавливает здоровье. Ультимейт Fiend's Grip надолго обездвиживает противника и прерывает его действия. Особенно эффективен на четвёртой и пятой позициях благодаря сильному контролю.
+
+Герой: Bane
+Роль: Саппорт (4/5)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Abaddon, Oracle, Slark, Juggernaut, Lifestealer, Nyx Assassin
+Основной закуп: Magic Wand, Arcane Boots, Aether Lens, Blink Dagger, Glimmer Cape, Force Staff, Aghanim's Shard, Black King Bar, Aghanim's Scepter, Refresher Orb
+Силён против: Enigma, Witch Doctor, Shadow Fiend, Storm Spirit, Puck, Ursa
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Aeon Disk, Glimmer Cape, Force Staff

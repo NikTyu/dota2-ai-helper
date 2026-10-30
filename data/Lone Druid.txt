@@ -1,0 +1,10 @@
+Описание: Lone Druid — герой-керри дальнего боя, который сражается вместе с призванным Spirit Bear. Медведь может самостоятельно атаковать врагов, собирать предметы и разрушать башни. Spirit Link повышает скорость атаки и обеспечивает вампиризм, а True Form превращает самого друида в медведя, увеличивая его выживаемость. Герой силён в затяжных сражениях, быстром фарме и пуше линий, особенно если получает преимущество в начале игры.
+
+Герой: Lone Druid
+Роль: Керри (1), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Luna, Underlord, Mars, Slardar, Chaos Knight, Spirit Breaker
+Основной закуп: Power Treads, Maelstrom, Mjollnir, Aghanim's Scepter, Black King Bar, Silver Edge, Butterfly, Aghanim's Shard
+Силён против: Shadow Fiend, Tiny, Faceless Void, Ember Spirit, Puck, Timbersaw
+Контр-предметы: Silver Edge, Heaven's Halberd, Crimson Guard, Shiva's Guard, Ghost Scepter, Aeon Disk

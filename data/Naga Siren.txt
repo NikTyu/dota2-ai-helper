@@ -1,0 +1,10 @@
+Описание: Naga Siren — герой-керри ближнего боя, который использует иллюзии для быстрого фарма, давления на линии и уничтожения строений. Mirror Image создаёт копии, способные атаковать врагов, а Rip Tide наносит дополнительный урон и снижает броню противников. Ensnare обездвиживает цель, а ультимейт Song of the Siren усыпляет врагов вокруг, позволяя начать бой, спасти союзников или отступить. Особенно сильна в затяжных играх, сплит-пуше и сражениях, где врагам сложно отличить настоящего героя от иллюзий.
+
+Герой: Naga Siren
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Timbersaw, Sand King, Leshrac, Tidehunter, Axe, Earthshaker
+Основной закуп: Power Treads, Yasha, Manta Style, Orchid Malevolence, Heart of Tarrasque, Butterfly, Bloodthorn, Eye of Skadi
+Силён против: Chaos Knight, Riki, Night Stalker, Wraith King, Lycan, Clinkz
+Контр-предметы: Radiance, Crimson Guard, Shiva's Guard, Monkey King Bar, Gleipnir, Dagon

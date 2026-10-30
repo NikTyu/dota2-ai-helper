@@ -1,0 +1,10 @@
+Описание: Slark — мобильный герой-керри ближнего боя, специализирующийся на затяжных сражениях, охоте на одиночные цели и восстановлении здоровья. Dark Pact наносит урон вокруг героя и снимает многие отрицательные эффекты, Pounce позволяет прыгнуть к врагу и привязать его, а Essence Shift временно крадёт характеристики при атаках. Ультимейт Shadow Dance скрывает Slark от врагов и ускоряет восстановление здоровья, а с Aghanim's Shard Depth Shroud помогает защищать союзников. Особенно силён в продолжительных драках, где может накапливать ловкость и постепенно становиться опаснее.
+
+Герой: Slark
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Grimstroke, Mars, Disruptor, Ancient Apparition, Techies, Bloodseeker
+Основной закуп: Power Treads, Diffusal Blade, Echo Sabre, Aghanim's Scepter, Aghanim's Shard, Black King Bar, Eye of Skadi, Disperser
+Силён против: Bristleback, Ember Spirit, Bounty Hunter, Venomancer, Tidehunter, Troll Warlord
+Контр-предметы: Silver Edge, Orchid Malevolence, Scythe of Vyse, Heaven's Halberd, Hurricane Pike, Black King Bar

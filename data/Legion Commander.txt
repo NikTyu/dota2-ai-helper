@@ -1,0 +1,10 @@
+Описание: Legion Commander — герой ближнего боя, специализирующийся на дуэлях и устранении ключевых противников. Overwhelming Odds наносит урон по области, Press the Attack снимает отрицательные эффекты и повышает скорость атаки, а Moment of Courage позволяет контратаковать и восстанавливать здоровье. Ультимейт Duel заставляет выбранного врага сражаться один на один, а победа навсегда увеличивает урон Legion Commander.
+
+Герой: Legion Commander
+Роль: Оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Winter Wyvern, Shadow Demon, Omniknight, Timbersaw, Tusk, Dawnbreaker
+Основной закуп: Phase Boots, Blink Dagger, Blade Mail, Black King Bar, Aghanim's Shard, Assault Cuirass, Aghanim's Scepter
+Силён против: Anti-Mage, Bristleback, Enigma, Faceless Void, Ember Spirit, Juggernaut
+Контр-предметы: Linken's Sphere, Heaven's Halberd, Ghost Scepter, Glimmer Cape, Force Staff, Aeon Disk

@@ -1,0 +1,10 @@
+Описание: Io — герой поддержки дальнего боя, который связывает себя с союзником способностью Tether, усиливая его восстановление здоровья и маны. Overcharge повышает скорость атаки и выживаемость связанного союзника, а Relocate позволяет телепортироваться вместе с ним в любую точку карты и создавать численное преимущество в сражениях.
+
+Герой: Io
+Роль: Саппорт (5), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Ancient Apparition, Doom, Necrophos, Lion, Shadow Shaman, Rubick
+Основной закуп: Magic Wand, Arcane Boots, Mekansm, Holy Locket, Glimmer Cape, Aghanim's Shard, Guardian Greaves, Heart of Tarrasque, Aghanim's Scepter
+Силён против: Bristleback, Huskar, Dragon Knight, Wraith King, Sven, Spectre
+Контр-предметы: Spirit Vessel, Skadi, Shiva's Guard, Eye of Skadi, Orchid Malevolence, Scythe of Vyse

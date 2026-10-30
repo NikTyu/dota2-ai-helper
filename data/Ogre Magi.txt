@@ -1,0 +1,10 @@
+Описание: Ogre Magi — выносливый герой ближнего боя с большим запасом здоровья и сильными магическими способностями. Fireblast оглушает врага, Ignite наносит периодический урон и замедляет цель, а Bloodlust увеличивает скорость атаки и передвижения союзника. Ультимейт Multicast позволяет способностям и некоторым предметам срабатывать несколько раз, благодаря чему Ogre Magi особенно опасен в затяжных сражениях.
+
+Герой: Ogre Magi
+Роль: Саппорт (4/5), оффлейнер (3), мид (2)
+Тип атаки: Ближний бой
+Основной атрибут: Интеллект
+Слаб против: Phantom Lancer, Anti-Mage, Naga Siren, Chaos Knight, Meepo, Broodmother
+Основной закуп: Arcane Boots, Hand of Midas, Blink Dagger, Aether Lens, Aghanim's Scepter, Glimmer Cape, Scythe of Vyse
+Силён против: Faceless Void, Ursa, Drow Ranger, Tiny, Phantom Assassin, Troll Warlord
+Контр-предметы: Black King Bar, Linken's Sphere, Orchid Malevolence, Pipe of Insight, Glimmer Cape, Infused Raindrops

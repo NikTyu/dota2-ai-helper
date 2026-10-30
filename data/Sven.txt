@@ -1,0 +1,10 @@
+Описание: Sven — мощный герой ближнего боя, способный наносить огромный физический урон и быстро уничтожать группы противников. Storm Hammer оглушает врагов по области, Great Cleave позволяет наносить урон сразу нескольким целям, а Warcry повышает скорость передвижения и броню союзников. Ультимейт God's Strength значительно увеличивает урон Sven, делая его опасным керри в командных сражениях. Особенно силён против иллюзионистов и героев с небольшим запасом здоровья.
+
+Герой: Sven
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Slardar, Lifestealer, Troll Warlord, Templar Assassin, Batrider, Phoenix
+Основной закуп: Power Treads, Mask of Madness, Echo Sabre, Blink Dagger, Black King Bar, Daedalus, Harpoon, Satanic
+Силён против: Phantom Lancer, Meepo, Naga Siren, Dark Seer, Lycan, Primal Beast
+Контр-предметы: Linken's Sphere, Heaven's Halberd, Ghost Scepter, Hurricane Pike, Blade Mail, Lotus Orb

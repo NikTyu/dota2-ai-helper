@@ -1,0 +1,10 @@
+Описание: Batrider — мобильный маг дальнего боя, специализирующийся на инициировании сражений и захвате ключевых противников. Sticky Napalm усиливает последующий урон, Flamebreak наносит урон и отталкивает врагов, а Firefly позволяет летать над препятствиями и оставлять огненный след. Ультимейт Flaming Lasso притягивает противника, позволяя вытащить его из позиции. Особенно эффективен на третьей позиции благодаря сильной инициации и контролю.
+
+Герой: Batrider
+Роль: Оффлейнер (3), мид (2), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Oracle, Abaddon, Vengeful Spirit, Slark, Lifestealer, Juggernaut
+Основной закуп: Boots of Travel, Blink Dagger, Black King Bar, Force Staff, Aghanim's Shard, Aghanim's Scepter, Witch Blade, Shiva's Guard, Refresher Orb, Wind Waker
+Силён против: Sniper, Drow Ranger, Crystal Maiden, Witch Doctor, Enigma, Shadow Fiend
+Контр-предметы: Linken's Sphere, Black King Bar, Lotus Orb, Force Staff, Glimmer Cape, Aeon Disk

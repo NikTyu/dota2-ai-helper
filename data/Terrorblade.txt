@@ -1,0 +1,10 @@
+Описание: Terrorblade — герой-керри дальнего боя, который использует иллюзии для быстрого фарма, уничтожения строений и нанесения огромного физического урона. Conjure Image создаёт иллюзии, способные атаковать врагов, Reflection создаёт вражеские иллюзии, которые замедляют противников, а Metamorphosis превращает Terrorblade в дальнобойную форму с увеличенным уроном. Ультимейт Sunder меняет здоровье Terrorblade и выбранной цели, позволяя перевернуть ход боя или спастись от смерти. Особенно силён в поздней игре и при осаде базы.
+
+Герой: Terrorblade
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Phantom Lancer, Axe, Sand King, Warlock, Dark Seer, Winter Wyvern
+Основной закуп: Power Treads, Falcon Blade, Manta Style, Dragon Lance, Eye of Skadi, Butterfly, Black King Bar, Daedalus
+Силён против: Slardar, Night Stalker, Vengeful Spirit, Templar Assassin, Pangolier, Viper
+Контр-предметы: Scythe of Vyse, Linken's Sphere, Crimson Guard, Shiva's Guard, Maelstrom, Dagon

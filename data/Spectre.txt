@@ -1,0 +1,10 @@
+Описание: Spectre — герой-керри ближнего боя, который становится особенно опасным в поздней игре. Spectral Dagger наносит урон и замедляет врагов, оставляя след, по которому Spectre быстрее передвигается и проходит сквозь препятствия. Desolate наносит дополнительный чистый урон изолированным целям, а Dispersion отражает часть получаемого урона обратно противникам. Ультимейт Shadow Step позволяет мгновенно переместиться к вражескому герою, а Haunt создаёт иллюзии для нападения на всю команду. Сильна в затяжных матчах и охоте на уязвимых героев по всей карте.
+
+Герой: Spectre
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Undying, Phantom Lancer, Meepo, Primal Beast, Necrophos, Nyx Assassin
+Основной закуп: Power Treads, Radiance, Manta Style, Eye of Skadi, Aghanim's Shard, Orchid Malevolence, Abyssal Blade, Butterfly
+Силён против: Sniper, Templar Assassin, Ursa, Nature's Prophet, Drow Ranger, Muerta
+Контр-предметы: Silver Edge, Scythe of Vyse, Heaven's Halberd, Ghost Scepter, Glimmer Cape, Hurricane Pike

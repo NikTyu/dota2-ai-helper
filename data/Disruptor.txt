@@ -1,0 +1,10 @@
+Описание: Disruptor — герой поддержки дальнего боя, специализирующийся на контроле передвижения врагов, прерывании заклинаний и командных сражениях. Thunder Strike наносит периодический магический урон, Glimpse возвращает вражеского героя в место, где тот находился несколько секунд назад, а Kinetic Field создаёт барьер, не позволяющий противникам выйти из области. Static Storm накрывает область мощным уроном и безмолвием, а с Aghanim's Scepter также запрещает использование предметов. Disruptor особенно опасен против мобильных героев, но уязвим к дальнобойным атакам и быстрому взрывному урону.
+
+Герой: Disruptor
+Роль: Поддержка (4), полная поддержка (5)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Sniper, Earth Spirit, Medusa, Ancient Apparition, Clinkz, Pugna
+Основной закуп: Magic Wand, Ring of Basilius, Arcane Boots, Aether Lens, Glimmer Cape, Force Staff, Blink Dagger, Aghanim's Scepter
+Силён против: Slark, Timbersaw, Ursa, Anti-Mage, Riki, Bristleback
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Glimmer Cape, Force Staff, Wind Waker

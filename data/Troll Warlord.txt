@@ -1,0 +1,10 @@
+Описание: Troll Warlord — герой-керри, способный переключаться между дальним и ближним боем. Whirling Axes замедляет врагов и мешает им попадать атаками, Berserker's Rage позволяет сражаться в ближнем бою и обездвиживать противников, а Fervor увеличивает скорость атаки при последовательных ударах по одной цели. Ультимейт Battle Trance временно не позволяет Troll Warlord умереть и значительно усиливает его боевые возможности. Особенно силён в продолжительных дуэлях, уничтожении Рошана и быстром сносе строений.
+
+Герой: Troll Warlord
+Роль: Керри (1)
+Тип атаки: Дальний и ближний бой
+Основной атрибут: Ловкость
+Слаб против: Axe, Viper, Slark, Razor, Ancient Apparition, Ogre Magi
+Основной закуп: Power Treads, Battle Fury, Sange and Yasha, Black King Bar, Aghanim's Scepter, Skull Basher, Satanic, Abyssal Blade
+Силён против: Anti-Mage, Night Stalker, Sven, Meepo, Broodmother, Chaos Knight
+Контр-предметы: Silver Edge, Heaven's Halberd, Ghost Scepter, Scythe of Vyse, Ethereal Blade, Shiva's Guard

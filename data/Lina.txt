@@ -1,0 +1,10 @@
+Описание: Lina — герой дальнего боя, специализирующийся на мощном магическом уроне и быстром уничтожении противников. Dragon Slave наносит урон по линии, Light Strike Array оглушает врагов в выбранной области, а Fiery Soul увеличивает скорость атаки и передвижения после применения заклинаний. Ультимейт Laguna Blade наносит огромный урон одной цели. Благодаря сочетанию магического урона и высокой скорости атаки Lina может играть как мидер, так и физический керри. Её главные слабости — низкая выживаемость и уязвимость к внезапному нападению и контролю.
+
+Герой: Lina
+Роль: Керри (1), мидер (2), поддержка (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Axe, Clinkz, Windranger, Medusa, Chaos Knight, Templar Assassin
+Основной закуп: Null Talisman, Magic Wand, Bottle, Infused Raindrops, Boots of Travel, Kaya, Maelstrom, Yasha and Kaya, Aghanim's Scepter, Blink Dagger, Black King Bar
+Силён против: Meepo, Phoenix, Muerta, Necrophos, Broodmother, Death Prophet
+Контр-предметы: Infused Raindrops, Cloak, Mage Slayer, Pipe of Insight, Black King Bar, Blade Mail

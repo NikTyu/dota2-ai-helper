@@ -1,0 +1,10 @@
+Описание: Phantom Lancer — герой-керри ближнего боя, который создаёт множество иллюзий для запутывания врагов, быстрого фарма и уничтожения целей. Spirit Lance наносит урон и замедляет противника, Doppelganger помогает уклоняться от атак и сбрасывать некоторые отрицательные эффекты, а Phantom Rush позволяет быстро сближаться с врагами. Juxtapose создаёт дополнительные иллюзии при атаках. Особенно силён в затяжных играх, сплит-пуше и против героев, которым трудно справляться с большим количеством копий.
+
+Герой: Phantom Lancer
+Роль: Керри (1)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Tidehunter, Axe, Leshrac, Sand King, Sven, Dark Seer
+Основной закуп: Power Treads, Manta Style, Aghanim's Scepter, Aghanim's Shard, Eye of Skadi, Bloodthorn, Heart of Tarrasque, Butterfly
+Силён против: Viper, Wraith King, Spectre, Chaos Knight, Drow Ranger, Slardar
+Контр-предметы: Battle Fury, Mjollnir, Radiance, Shiva's Guard, Gleipnir, Crimson Guard

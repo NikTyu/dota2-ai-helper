@@ -1,0 +1,10 @@
+Описание: Rubick — маг дальнего боя, специализирующийся на контроле противников и использовании их способностей против них самих. Telekinesis подбрасывает врага, Fade Bolt наносит урон и ослабляет атаки противников, а ультимейт Spell Steal позволяет красть последнее использованное врагом заклинание. Особенно эффективен в роли четвёртой позиции благодаря сильному контролю и способности переворачивать командные сражения.
+
+Герой: Rubick
+Роль: Саппорт (4/5), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Chen, Clinkz, Templar Assassin, Primal Beast, Pugna, Silencer
+Основной закуп: Arcane Boots, Magic Wand, Blink Dagger, Aether Lens, Aghanim's Shard, Aghanim's Scepter, Glimmer Cape, Force Staff, Eul's Scepter of Divinity, Octarine Core
+Силён против: Underlord, Enigma, Crystal Maiden, Jakiro, Weaver, Magnus
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Glimmer Cape, Force Staff, Orchid Malevolence

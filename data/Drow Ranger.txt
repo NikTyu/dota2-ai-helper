@@ -1,0 +1,10 @@
+Описание: Drow Ranger — герой дальнего боя, специализирующийся на нанесении высокого физического урона с безопасной дистанции. Frost Arrows замедляют врагов, Gust отталкивает противников и накладывает безмолвие, а Multishot выпускает серию стрел по нескольким целям. Ультимейт Marksmanship увеличивает урон атак и позволяет стрелам игнорировать базовую броню врагов, пока рядом нет вражеских героев. Особенно сильна в поздней игре, когда может уничтожать противников и строения, оставаясь на расстоянии.
+
+Герой: Drow Ranger
+Роль: Керри (1), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Dragon Knight, Spectre, Primal Beast, Magnus, Phantom Lancer, Mars
+Основной закуп: Power Treads, Dragon Lance, Manta Style, Hurricane Pike, Aghanim's Scepter, Butterfly, Black King Bar, Daedalus
+Силён против: Meepo, Necrophos, Omniknight, Riki, Troll Warlord, Pudge
+Контр-предметы: Blink Dagger, Black King Bar, Ghost Scepter, Heaven's Halberd, Blade Mail, Assault Cuirass

@@ -1,0 +1,10 @@
+Описание: Silencer — герой дальнего боя, специализирующийся на безмолвии противников и нанесении магического и физического урона. Arcane Curse наносит периодический урон и замедляет врагов, Glaives of Wisdom усиливает атаки, а Last Word накладывает безмолвие. Ультимейт Global Silence запрещает всем вражеским героям использовать способности на короткое время. Особенно эффективен в роли пятой позиции, мешая вражеским инициаторам и магам проводить комбинации.
+
+Герой: Silencer
+Роль: Саппорт (4/5), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Phantom Lancer, Lycan, Broodmother, Arc Warden, Naga Siren, Razor
+Основной закуп: Magic Wand, Arcane Boots, Force Staff, Aghanim's Shard, Glimmer Cape, Hurricane Pike, Aghanim's Scepter, Refresher Orb, Scythe of Vyse
+Силён против: Timbersaw, Dawnbreaker, Necrophos, Tinker, Bristleback, Leshrac
+Контр-предметы: Black King Bar, Linken's Sphere, Manta Style, Lotus Orb, Eul's Scepter of Divinity, Mage Slayer

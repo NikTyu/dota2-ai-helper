@@ -1,0 +1,10 @@
+Описание: Riki — мобильный герой-керри ближнего боя, специализирующийся на скрытных нападениях и устранении одиночных целей. Smoke Screen создаёт область, в которой врагам трудно использовать способности и попадать атаками, Blink Strike позволяет мгновенно перемещаться за спину противника, а Tricks of the Trade наносит серии ударов по врагам поблизости. Cloak and Dagger обеспечивает постоянную невидимость вне боя и дополнительный урон при атаке со спины. Особенно силён в гангах и против уязвимых героев задней линии.
+
+Герой: Riki
+Роль: Керри (1), мид (2), поддержка (4)
+Тип атаки: Ближний бой
+Основной атрибут: Ловкость
+Слаб против: Naga Siren, Meepo, Bloodseeker, Dragon Knight, Spectre, Sven
+Основной закуп: Power Treads, Diffusal Blade, Manta Style, Aghanim's Shard, Disperser, Skull Basher, Nullifier, Abyssal Blade
+Силён против: Puck, Storm Spirit, Shadow Demon, Ancient Apparition, Undying, Skywrath Mage
+Контр-предметы: Dust of Appearance, Sentry Ward, Gem of True Sight, Crimson Guard, Ghost Scepter, Force Staff

@@ -1,0 +1,10 @@
+Описание: Winter Wyvern — саппорт дальнего боя, специализирующийся на защите союзников и контроле противников. Cold Embrace лечит союзника и защищает его от физического урона, Splinter Blast наносит урон по области, а ультимейт Winter's Curse заставляет врагов атаковать свою цель. Особенно эффективна на пятой позиции благодаря сильной защитной способности и возможности переворачивать командные сражения.
+
+Герой: Winter Wyvern
+Роль: Саппорт (4/5), оффлейнер (3)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Timbersaw, Tinker, Necrophos, Sand King, Anti-Mage, Pugna
+Основной закуп: Magic Wand, Arcane Boots, Blink Dagger, Glimmer Cape, Force Staff, Aghanim's Shard, Aether Lens, Aeon Disk, Aghanim's Scepter, Refresher Orb
+Силён против: Meepo, Legion Commander, Terrorblade, Dawnbreaker, Broodmother, Sven
+Контр-предметы: Black King Bar, Linken's Sphere, Lotus Orb, Pipe of Insight, Glimmer Cape, Force Staff

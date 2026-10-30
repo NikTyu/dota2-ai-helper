@@ -1,0 +1,10 @@
+Описание: Vengeful Spirit — универсальный герой дальнего боя, чаще всего играющий на четвёртой или пятой позиции. Magic Missile наносит магический урон и оглушает цель, Wave of Terror снижает броню врагов, а Vengeance Aura усиливает физический урон союзников. Ультимейт Nether Swap меняет местами Vengeful Spirit и выбранного героя, позволяя спасать союзников или вытягивать врагов из позиции. После смерти может продолжать сражаться в виде иллюзии благодаря Aghanim's Scepter. Особенно полезна в командных драках и при усилении физического урона команды.
+
+Герой: Vengeful Spirit
+Роль: Поддержка (4), полная поддержка (5), керри (1)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Phantom Lancer, Troll Warlord, Dragon Knight, Wraith King, Chaos Knight, Spectre
+Основной закуп: Tranquil Boots, Magic Wand, Aghanim's Scepter, Aghanim's Shard, Solar Crest, Force Staff, Aether Lens, Glimmer Cape
+Силён против: Legion Commander, Oracle, Sven, Slardar, Clinkz, Faceless Void
+Контр-предметы: Linken's Sphere, Black King Bar, Heaven's Halberd, Glimmer Cape, Force Staff, Ghost Scepter

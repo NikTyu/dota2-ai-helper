@@ -1,0 +1,10 @@
+Описание: Dawnbreaker — выносливый герой ближнего боя, специализирующийся на командных сражениях, физическом уроне и поддержке союзников. Starbreaker наносит урон и оглушает врагов, Luminosity усиливает атаки и восстанавливает здоровье, а Solar Guardian позволяет перемещаться к союзникам по всей карте, нанося урон врагам и исцеляя союзников в области приземления.
+
+Герой: Dawnbreaker
+Роль: Оффлейнер (3),  саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Nyx Assassin, Silencer, Sven, Ancient Apparition, Morphling, Techies
+Основной закуп: Phase Boots, Echo Sabre, Harpoon, Black King Bar, Desolator, Assault Cuirass, Aghanim's Scepter
+Силён против: Night Stalker, Legion Commander, Naga Siren, Spectre, Nature's Prophet, Pudge
+Контр-предметы: Silver Edge, Spirit Vessel, Eye of Skadi, Shiva's Guard, Abyssal Blade

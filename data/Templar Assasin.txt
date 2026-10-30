@@ -1,0 +1,10 @@
+Описание: Templar Assassin — герой-керри дальнего боя, который специализируется на быстром убийстве одиночных целей и нанесении высокого физического урона. Refraction поглощает несколько источников урона и усиливает атаки, Meld позволяет становиться невидимой и наносить мощный удар с уменьшением брони врага, а Psi Blades увеличивает дальность атак и наносит урон противникам за основной целью. Psionic Trap замедляет врагов и обеспечивает контроль территории. Сильна в дуэлях, быстром фарме и уничтожении ключевых целей благодаря высокому урону и бронепробиванию.
+
+Герой: Templar Assassin
+Роль: Керри (1), мид (2)
+Тип атаки: Дальний бой
+Основной атрибут: Ловкость
+Слаб против: Phantom Lancer, Spectre, Arc Warden, Phoenix, Dragon Knight, Wraith King
+Основной закуп: Power Treads, Desolator, Blink Dagger, Daedalus, Hurricane Pike, Black King Bar, Monkey King Bar, Swift Blink
+Силён против: Sven, Phantom Assassin, Ursa, Timbersaw, Nature's Prophet, Anti-Mage
+Контр-предметы: Dust of Appearance, Sentry Ward, Gem of True Sight, Heaven's Halberd, Ghost Scepter, Blade Mail

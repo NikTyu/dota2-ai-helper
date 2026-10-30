@@ -1,0 +1,10 @@
+Описание: Omniknight — выносливый герой, который защищает союзников, лечит их и помогает переживать командные сражения. Purification наносит урон врагам вокруг цели и одновременно лечит союзников, Hammer of Purity усиливает атаки чистым уроном, а Repel защищает от негативных эффектов. Ультимейт Guardian Angel делает союзников невосприимчивыми к физическому урону, поэтому Omniknight особенно эффективен против команд, полагающихся на физические атаки.
+
+Герой: Omniknight
+Роль: Оффлейнер (3), саппорт (4/5)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Ancient Apparition, Witch Doctor, Undying, Necrophos, Lich, Muerta
+Основной закуп: Soul Ring, Phase Boots, Echo Sabre, Harpoon, Blink Dagger, Aghanim's Shard, Guardian Greaves, Heart of Tarrasque
+Силён против: Oracle, Legion Commander, Tidehunter, Juggernaut, Lifestealer, Disruptor
+Контр-предметы: Nullifier, Spirit Vessel, Shiva's Guard, Scythe of Vyse, Silver Edge, Black King Bar

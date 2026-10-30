@@ -1,0 +1,10 @@
+Описание: Nature's Prophet — универсальный герой дальнего боя, способный оказывать давление на всей карте благодаря телепортации Teleportation и призыву существ через Nature's Call. Он быстро уничтожает строения, эффективно фармит и помогает союзникам в сражениях с помощью Sprout, ограничивающей передвижение противников.
+
+Герой: Nature's Prophet
+Роль: Керри (1), мид (2), оффлейнер (3), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Storm Spirit, Spectre, Zeus, Bounty Hunter, Slardar, Timbersaw
+Основной закуп: Power Treads, Maelstrom, Gleipnir, Orchid Malevolence, Black King Bar, Aghanim's Scepter, Monkey King Bar, Scythe of Vyse, Bloodthorn
+Силён против: Nature's Prophet, Tinker, Enigma, Sniper, Drow Ranger, Crystal Maiden
+Контр-предметы: Quelling Blade, Battle Fury, Crimson Guard, Blade Mail, Black King Bar, Monkey King Bar

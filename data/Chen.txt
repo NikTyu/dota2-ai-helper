@@ -1,0 +1,10 @@
+Описание: Chen — герой поддержки дальнего боя, специализирующийся на контроле нейтральных крипов, раннем давлении на линии и помощи союзникам по всей карте. Holy Persuasion позволяет подчинять крипов и использовать их способности, Penitence замедляет врага и ускоряет атаки союзников по нему, а Divine Favor усиливает лечение и восстановление здоровья. Ультимейт Hand of God мгновенно лечит всех союзных героев на карте. Chen особенно силён в ранней игре, пуше башен и создании численного преимущества благодаря армии крипов.
+
+Герой: Chen
+Роль: Полная поддержка (5), поддержка (4)
+Тип атаки: Дальний бой
+Основной атрибут: Интеллект
+Слаб против: Batrider, Broodmother, Windranger, Earthshaker, Phantom Lancer, Sven
+Основной закуп: Ring of Basilius, Arcane Boots, Magic Wand, Mekansm, Guardian Greaves, Aghanim's Shard, Glimmer Cape, Force Staff
+Силён против: Shadow Demon, Timbersaw, Bounty Hunter, Night Stalker, Oracle, Arc Warden
+Контр-предметы: Spirit Vessel, Black King Bar, Orchid Malevolence, Crimson Guard, Shiva's Guard, Mjollnir

@@ -1,0 +1,10 @@
+Описание: Brewmaster — герой ближнего боя, специализирующийся на выживаемости, контроле противников и командных сражениях. Thunder Clap наносит урон и замедляет врагов, Cinder Brew усиливает эффекты способностей, а Drunken Brawler даёт различные боевые бонусы. Ультимейт Primal Split разделяет героя на элементальных воинов с уникальными способностями. Особенно эффективен на третьей позиции благодаря высокой выживаемости и сильному контролю в командных боях.
+
+Герой: Brewmaster
+Роль: Оффлейнер (3), саппорт (4)
+Тип атаки: Ближний бой
+Основной атрибут: Универсальный
+Слаб против: Ursa, Troll Warlord, Lifestealer, Slark, Shadow Demon, Enigma
+Основной закуп: Phase Boots, Magic Wand, Blink Dagger, Aghanim's Shard, Aghanim's Scepter, Black King Bar, Refresher Orb, Shiva's Guard, Pipe of Insight
+Силён против: Phantom Assassin, Drow Ranger, Sniper, Templar Assassin, Crystal Maiden, Witch Doctor
+Контр-предметы: Black King Bar, Silver Edge, Diffusal Blade, Spirit Vessel, Scythe of Vyse, Gleipnir

@@ -1,0 +1,10 @@
+Описание: Spirit Breaker — выносливый герой ближнего боя, специализирующийся на внезапных атаках, оглушениях и глобальной инициации. Charge of Darkness позволяет преследовать врага практически по всей карте, Bulldoze повышает скорость передвижения и сопротивление эффектам, а Greater Bash даёт шанс оглушить противника и оттолкнуть его атакой. Ультимейт Nether Strike телепортирует героя к цели и наносит мощный удар. Особенно эффективен для гангов, нарушения позиционирования врагов и постоянного давления по всей карте.
+
+Герой: Spirit Breaker
+Роль: Саппорт (4/5), оффлейнер (3)
+Тип атаки: Ближний бой
+Основной атрибут: Сила
+Слаб против: Underlord, Tiny, Clockwerk, Timbersaw, Mars, Necrophos
+Основной закуп: Magic Wand, Wind Lace, Urn of Shadows, Phase Boots, Drum of Endurance, Spirit Vessel, Shadow Blade, Aghanim's Scepter, Black King Bar
+Силён против: Broodmother, Night Stalker, Arc Warden, Juggernaut, Lifestealer, Bane
+Контр-предметы: Linken's Sphere, Heaven's Halberd, Ghost Scepter, Force Staff, Eul's Scepter of Divinity, Black King Bar

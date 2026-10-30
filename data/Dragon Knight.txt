@@ -1,0 +1,10 @@
+Описание: Dragon Knight — выносливый герой, способный выдерживать большое количество урона и эффективно инициировать сражения. Dragon Tail оглушает врагов, Breathe Fire снижает наносимый ими урон, а Elder Dragon Form усиливает атаки и позволяет наносить урон на расстоянии. Силен при осаде башен и командных драках, особенно после получения ключевых предметов.
+
+Герой: Dragon Knight
+Роль: Мид (2), оффлейнер (3)
+Тип атаки: Ближний бой (в Elder Dragon Form — дальний)
+Основной атрибут: Сила
+Слаб против: Viper, Huskar, Enigma, Necrophos, Slark, Timbersaw
+Основной закуп: Power Treads, Soul Ring, Blink Dagger, Aghanim's Shard, Black King Bar, Octarine Core, Shiva's Guard
+Силён против: Drow Ranger, Broodmother, Pangolier, Riki, Templar Assassin, Chaos Knight
+Контр-предметы: Black King Bar, Linken's Sphere, Heaven's Halberd, Silver Edge, Shiva's Guard

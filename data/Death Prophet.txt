@@ -1,0 +1,10 @@
+Описание: Death Prophet — маг дальнего боя, специализирующийся на осаде строений, командных сражениях и быстром уничтожении целей. Crypt Swarm наносит урон врагам по области, Silence запрещает противникам использовать способности, а Spirit Siphon высасывает здоровье врагов. Ультимейт Exorcism призывает духов, которые атакуют противников и строения, помогая команде продавливать линии. Особенно эффективна на миде и оффлейне благодаря сильному давлению на объекты.
+
+Герой: Death Prophet
+Роль: Мид (2), оффлейнер (3)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Anti-Mage, Nyx Assassin, Silencer, Ursa, Lifestealer, Sniper
+Основной закуп: Phase Boots, Witch Blade, Eul's Scepter of Divinity, Kaya and Sange, Black King Bar, Aghanim's Shard, Shiva's Guard, Aghanim's Scepter, Refresher Orb
+Силён против: Bristleback, Tidehunter, Timbersaw, Phantom Assassin, Drow Ranger, Shadow Fiend
+Контр-предметы: Black King Bar, Spirit Vessel, Shiva's Guard, Pipe of Insight, Silver Edge, Scythe of Vyse

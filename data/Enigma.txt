@@ -1,0 +1,10 @@
+Описание: Enigma — герой дальнего боя, специализирующийся на контроле противников и мощной инициации командных сражений. Malefice периодически оглушает цель, Midnight Pulse наносит урон в зависимости от максимального здоровья врагов, а Demonic Conversion создаёт существ для давления на линии и фарма. Ультимейт Black Hole притягивает и оглушает противников в большой области. Особенно эффективен на третьей позиции благодаря способности переворачивать командные сражения.
+
+Герой: Enigma
+Роль: Оффлейнер (3), саппорт (4)
+Тип атаки: Дальний бой
+Основной атрибут: Универсальный
+Слаб против: Rubick, Silencer, Vengeful Spirit, Shadow Demon, Clockwerk, Pudge
+Основной закуп: Arcane Boots, Blink Dagger, Black King Bar, Aghanim's Shard, Aghanim's Scepter, Refresher Orb, Shiva's Guard, Octarine Core, Scythe of Vyse
+Силён против: Phantom Lancer, Meepo, Broodmother, Naga Siren, Drow Ranger, Witch Doctor
+Контр-предметы: Black King Bar, Linken's Sphere, Aeon Disk, Lotus Orb, Glimmer Cape, Force Staff
